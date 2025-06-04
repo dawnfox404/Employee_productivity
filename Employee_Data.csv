@@ -1,0 +1,1001 @@
+Date,Employee_Name,Employee_ID,Department,Job_Title,Gender,Project,Years_At_Company,Performance_Score,Monthly_Salary	,Clocked_Hours,Productive_Hours,Tasks_Completed,Meetings	,Break_Hours,Training_Hours	,Overtime_Hours	,Remote_Work_Frequency,Employee_Satisfaction_Score,Resigned
+9/26/2024,Theresita,168,Legal,Occupational Therapist,Female,Rank,7.0,4,1,1.8,7.2,0,0,0.9,7.7,2.2,4,4.4,yes
+8/13/2024,Garner,689,Research and Development,Analog Circuit Design manager,Male,Alpha,20.8,5,1,6.9,4.3,7,5,0.8,4.1,0.1,1,1.8,yes
+3/6/2025,Elden,11950,Business Development,Software Engineer IV,Genderfluid,Latlux,29.8,3,1,5.1,1.1,3,4,1.3,6.9,0.2,0,3.8,no
+8/24/2024,Alice,8236,Engineering,Senior Sales Associate,Female,Ronstring,17.4,1,2,3.1,1.5,10,4,0.8,11.8,4.2,17,3.2,yes
+12/15/2024,Anselm,310,Marketing,Compensation Analyst,Non-binary,Ronstring,20.2,5,4,1.7,2.5,5,4,1.6,13.2,1.3,14,2.2,no
+3/19/2025,Zarah,2,Legal,Business Systems Development Analyst,Female,Zontrax,13.5,5,4,3.1,0.0,7,1,1.0,12.3,2.4,18,3.9,no
+3/7/2025,Clayton,77,Training,Research Assistant III,Male,Bytecard,10.5,3,4,6.6,7.2,1,4,1.4,3.8,1.1,7,2.3,no
+10/7/2024,Gael,3524,Product Management,Associate Professor,Female,Lotlux,27.5,1,3,6.8,1.7,6,4,1.0,12.1,4.2,13,1.0,no
+6/11/2024,Beniamino,4,Product Management,Operator,Bigender,Holdlamis,17.5,3,2,0.9,5.8,3,0,1.9,9.0,3.8,14,1.3,no
+12/3/2024,Goldy,72,Training,Programmer Analyst III,Female,Voltsillam,7.6,2,1,2.4,7.2,7,3,1.8,5.7,4.9,10,4.7,yes
+6/7/2024,Jarred,36050,Product Management,Safety Technician IV,Male,Stringtough,18.4,4,3,7.0,4.7,6,4,2.0,11.1,2.6,0,2.3,no
+9/15/2024,Dean,3146,Legal,Occupational Therapist,Polygender,Zaam-Dox,24.2,3,1,5.6,6.7,5,0,0.9,1.3,1.5,4,3.5,yes
+2/12/2025,Holt,4932,Services,Accountant III,Male,Span,18.1,4,5,3.8,7.9,6,2,0.6,2.7,3.3,13,4.7,no
+9/17/2024,Priscilla,89633,Marketing,Staff Accountant III,Female,Kanlam,11.9,1,2,1.8,5.4,9,4,1.4,5.7,0.6,4,2.0,no
+9/16/2024,Sibelle,48048,Accounting,VP Quality Control,Female,Otcom,19.8,3,4,1.0,5.8,1,2,0.9,0.2,1.9,20,2.0,yes
+5/6/2025,Barbi,8423,Business Development,VP Sales,Female,Viva,26.2,3,3,5.4,3.4,5,4,0.6,1.6,4.2,13,1.5,yes
+11/13/2024,Alford,4908,Product Management,Research Associate,Male,Cardify,16.4,2,2,4.9,3.5,9,1,1.4,7.3,2.3,5,1.0,no
+4/17/2025,Norton,16,Training,General Manager,Male,Cardguard,5.3,2,4,7.2,2.8,5,0,1.8,8.7,2.0,11,4.9,yes
+9/20/2024,Andromache,1406,Services,Quality Engineer,Female,Zoolab,20.4,3,3,7.4,6.0,2,0,1.8,5.2,2.5,19,1.2,no
+11/17/2024,Barnaby,57,Research and Development,Administrative Officer,Male,Bitchip,3.5,5,3,5.9,5.1,2,2,1.6,11.1,1.0,11,1.1,yes
+8/14/2024,Koenraad,27911,Support,Recruiter,Male,Wrapsafe,11.3,3,3,4.0,5.8,7,5,1.5,7.0,4.1,8,4.7,no
+7/17/2024,Teena,184,Accounting,Professor,Female,Daltfresh,19.5,4,5,4.4,2.7,0,5,1.4,1.8,2.6,16,4.5,no
+11/9/2024,Saunder,81880,Legal,Software Consultant,Male,Quo Lux,24.2,3,3,4.8,4.8,5,2,1.0,13.8,4.7,18,4.7,yes
+10/21/2024,Annabel,19,Support,Internal Auditor,Female,Bytecard,24.9,4,3,0.8,1.8,7,0,1.3,13.6,4.7,18,2.6,no
+4/2/2025,Rory,5517,Research and Development,Account Representative III,Female,Asoka,16.9,4,3,7.8,0.7,1,1,1.1,12.8,2.7,11,4.4,no
+4/6/2025,Imojean,9,Engineering,VP Marketing,Female,Tin,19.6,4,2,3.4,1.6,2,5,0.6,14.7,2.0,19,2.1,no
+1/9/2025,Carolina,1035,Services,Product Engineer,Female,Zaam-Dox,1.0,5,4,7.4,1.2,4,5,1.2,14.1,1.8,16,4.2,no
+11/5/2024,Libby,2,Business Development,Help Desk Operator,Female,Otcom,17.8,1,3,4.8,3.4,3,4,1.9,4.2,4.6,12,1.2,no
+11/4/2024,Niki,785,Legal,General Manager,Genderqueer,Redhold,18.4,4,2,4.7,6.6,6,3,0.8,3.3,0.2,4,1.2,no
+2/18/2025,Vivia,47408,Training,Computer Systems Analyst II,Female,Fix San,23.5,5,4,5.9,6.3,0,4,1.6,0.3,0.8,13,1.5,no
+10/3/2024,Marrissa,3391,Engineering,Chemical Engineer,Female,Bigtax,3.2,2,4,6.0,2.9,8,0,1.2,3.0,2.9,7,1.7,yes
+3/14/2025,Philippe,0982,Research and Development,Analog Circuit Design manager,Female,Rank,25.4,2,3,6.4,3.5,0,0,1.8,4.7,3.5,15,4.3,yes
+7/14/2024,Prinz,4413,Services,Actuary,Male,Domainer,27.9,2,4,5.3,4.2,1,0,0.8,3.7,2.7,20,4.2,yes
+4/6/2025,Viv,741,Sales,Executive Secretary,Female,Vagram,22.2,3,3,3.6,0.7,3,0,1.2,6.7,0.5,18,4.4,yes
+9/16/2024,Dukie,73,Legal,Administrative Officer,Male,Span,20.0,1,1,4.2,1.6,0,3,1.6,7.7,3.6,5,4.7,no
+8/23/2024,Baxter,1320,Support,Assistant Manager,Male,Flowdesk,17.9,1,4,6.3,4.9,1,4,1.9,3.7,2.5,1,4.0,yes
+5/13/2025,Alfonso,2,Human Resources,Pharmacist,Male,Pannier,25.1,3,3,7.5,1.2,7,2,0.7,14.9,2.9,10,2.2,yes
+6/16/2024,Akim,63,Business Development,Quality Control Specialist,Male,Alphazap,3.8,1,3,6.9,7.2,7,4,1.9,13.6,1.7,1,1.5,no
+12/15/2024,Dagny,2,Research and Development,Administrative Officer,Male,Bigtax,27.9,2,4,1.0,3.3,5,3,1.5,5.6,4.6,6,4.1,no
+1/31/2025,Lowell,8165,Legal,Product Engineer,Male,Zontrax,20.4,3,1,4.7,0.5,7,2,1.7,6.0,1.0,15,1.9,yes
+9/29/2024,Ethelind,9,Services,Research Nurse,Polygender,Andalax,26.8,3,1,0.9,0.9,6,2,1.0,7.6,0.1,15,1.1,yes
+2/26/2025,Lazare,6693,Training,Information Systems Manager,Male,Pannier,26.9,4,2,8.0,6.0,8,2,0.8,14.3,1.7,20,4.9,no
+4/21/2025,Job,297,Product Management,Safety Technician II,Male,Konklux,3.7,1,3,2.3,6.8,5,0,1.7,2.5,3.9,12,2.7,yes
+7/19/2024,Amble,8,Human Resources,Environmental Tech,Male,Quo Lux,18.1,3,3,5.6,4.2,5,4,1.6,5.1,2.3,3,2.5,yes
+11/5/2024,Farr,013,Training,Environmental Tech,Male,Konklux,25.8,1,3,4.5,4.9,8,2,1.4,8.6,2.9,4,4.7,no
+11/21/2024,Claribel,440,Research and Development,Computer Systems Analyst I,Female,Tin,6.8,3,5,4.5,2.1,2,0,1.6,14.9,2.5,0,2.0,no
+3/11/2025,Yulma,710,Services,Geological Engineer,Male,Zathin,25.6,2,1,1.3,1.4,4,0,0.6,0.5,0.2,0,2.6,no
+6/19/2024,Jamil,43770,Training,Paralegal,Male,Asoka,24.5,3,1,1.8,3.2,10,0,0.6,14.1,0.6,4,3.1,no
+3/29/2025,Trstram,7,Support,Executive Secretary,Male,Asoka,20.0,2,1,1.4,0.1,9,4,1.3,14.2,5.0,8,4.7,no
+8/31/2024,Winston,4222,Sales,VP Sales,Male,Gembucket,0.4,4,5,1.4,6.3,9,5,0.8,1.8,2.9,13,2.6,yes
+1/23/2025,Rhodia,903,Legal,Electrical Engineer,Female,Temp,25.8,2,3,7.9,3.0,10,5,1.4,0.9,3.4,11,1.5,no
+10/8/2024,Dane,5482,Engineering,Geological Engineer,Male,Mat Lam Tam,27.4,3,4,5.5,4.2,4,4,1.6,1.5,1.7,10,3.2,yes
+11/10/2024,Terese,84,Training,Structural Engineer,Female,Home Ing,25.2,5,4,6.9,0.5,1,5,0.6,3.4,1.4,7,3.3,no
+7/28/2024,Gal,1,Legal,Operator,Male,Alphazap,8.8,5,2,7.1,0.0,5,5,1.0,14.6,0.7,19,4.4,no
+8/8/2024,Vaughan,663,Services,Staff Scientist,Male,Hatity,24.1,1,1,0.8,1.7,5,5,1.4,9.7,4.8,0,4.0,yes
+9/21/2024,Pet,55774,Accounting,Editor,Female,Namfix,28.6,1,2,7.0,2.7,1,3,0.8,13.8,1.0,11,3.5,no
+5/12/2025,Shay,30977,Research and Development,Project Manager,Female,Solarbreeze,0.3,4,2,3.1,4.7,5,0,0.6,12.7,0.2,4,1.1,yes
+6/2/2025,Myrtice,3,Marketing,Developer II,Female,Biodex,3.3,4,3,0.5,7.7,1,3,1.8,14.7,2.6,13,3.0,no
+8/26/2024,Jorrie,8379,Sales,Librarian,Female,Prodder,24.3,2,1,2.9,6.7,5,4,1.8,2.9,2.2,3,4.3,yes
+12/25/2024,Marina,72,Marketing,Technical Writer,Female,Cardify,29.6,2,4,3.1,7.2,4,2,1.1,13.8,2.0,5,1.3,yes
+7/20/2024,Walther,10745,Marketing,Speech Pathologist,Male,Bamity,6.3,1,4,7.0,1.2,0,4,0.6,5.8,4.3,13,2.5,yes
+7/21/2024,Kain,27,Support,Design Engineer,Male,Stim,11.0,2,2,5.2,6.5,1,4,1.0,9.8,3.4,14,2.1,yes
+7/28/2024,Bonita,35,Human Resources,Research Associate,Female,Pannier,10.0,2,5,4.8,5.0,3,3,1.3,1.1,1.7,1,1.3,no
+6/5/2024,Gideon,42,Engineering,Environmental Specialist,Male,Alpha,3.6,4,2,5.3,4.8,0,5,1.6,14.3,1.2,11,1.5,no
+4/12/2025,Porty,915,Training,Design Engineer,Male,Konklab,27.1,4,2,7.6,5.6,1,5,2.0,9.5,0.3,5,2.0,yes
+7/17/2024,De,4605,Training,Sales Associate,Female,Trippledex,24.6,4,5,3.8,0.6,7,2,1.1,2.4,4.3,4,3.8,yes
+4/1/2025,Shaina,899,Human Resources,Graphic Designer,Female,Fix San,25.9,5,4,2.3,7.3,6,5,0.6,1.5,2.2,6,3.7,no
+5/17/2025,Aurthur,68388,Marketing,Executive Secretary,Male,Sonsing,25.6,4,4,4.8,7.8,9,1,2.0,11.8,1.6,0,4.0,no
+7/7/2024,Pattie,94117,Business Development,Business Systems Development Analyst,Male,Zathin,0.8,3,4,7.7,4.5,8,0,1.2,0.3,2.7,16,3.5,yes
+4/23/2025,Bertina,62,Engineering,VP Marketing,Female,Opela,12.2,1,4,0.6,6.4,9,3,1.9,5.9,2.6,1,1.8,no
+4/9/2025,Trstram,8135,Services,Product Engineer,Male,It,28.4,2,2,2.5,5.0,10,5,1.8,6.5,3.1,13,1.7,no
+6/27/2024,Querida,7,Product Management,Director of Sales,Female,Temp,11.5,5,3,0.7,7.2,10,5,1.8,0.2,1.3,11,3.4,no
+9/24/2024,Neala,21947,Training,Software Test Engineer IV,Female,Greenlam,8.5,5,3,7.4,1.7,7,4,1.6,12.6,2.7,19,4.1,yes
+10/23/2024,Anabelle,716,Product Management,Junior Executive,Female,Keylex,22.8,4,2,1.3,3.0,9,0,0.8,12.9,2.4,17,4.6,no
+11/4/2024,Alexis,82724,Support,Community Outreach Specialist,Male,Cardify,15.6,2,5,2.2,3.6,1,0,0.6,2.3,2.2,17,3.3,no
+4/9/2025,Marjy,08687,Human Resources,Administrative Officer,Non-binary,Pannier,13.0,4,2,2.4,6.1,5,2,1.9,10.6,0.3,2,2.9,no
+11/24/2024,Benjy,23367,Marketing,Web Developer I,Male,Fixflex,22.3,1,5,4.3,4.4,6,5,1.3,5.0,1.3,10,1.9,yes
+5/1/2025,Steven,92,Research and Development,Pharmacist,Male,Viva,28.8,3,3,4.4,2.0,9,5,2.0,4.8,4.3,1,2.8,no
+9/30/2024,Isidro,07786,Legal,Senior Financial Analyst,Male,Bigtax,28.6,1,3,6.8,4.9,10,0,1.4,8.3,1.0,13,1.9,yes
+2/21/2025,Dom,9,Support,Sales Representative,Male,Lotlux,8.5,4,5,7.1,1.3,2,2,0.5,10.8,2.9,12,1.6,no
+7/7/2024,Joby,9680,Marketing,Operator,Female,Bigtax,9.7,2,2,7.9,4.4,10,4,1.9,2.0,4.5,19,2.0,no
+8/6/2024,Amble,7962,Accounting,Legal Assistant,Male,Keylex,26.9,2,4,7.1,2.9,8,0,0.5,10.6,0.8,5,4.1,no
+7/26/2024,Miguel,50592,Human Resources,Analyst Programmer,Male,Keylex,21.2,4,1,3.0,6.8,8,3,1.8,5.0,0.9,5,4.2,yes
+7/11/2024,Berke,8679,Legal,Administrative Assistant IV,Male,Regrant,2.1,3,5,3.7,0.0,10,0,1.6,3.4,2.2,9,3.6,yes
+12/27/2024,Dew,106,Sales,Assistant Manager,Male,Alphazap,11.7,2,2,0.7,2.8,5,4,1.9,9.3,3.1,8,4.0,yes
+7/26/2024,Darrin,446,Training,Web Designer IV,Male,Fintone,2.1,2,3,1.3,7.0,4,2,1.1,4.6,2.5,2,1.4,no
+3/28/2025,Perry,949,Legal,Assistant Professor,Male,Temp,29.3,3,3,6.3,3.2,1,0,1.8,11.6,2.7,11,2.9,yes
+12/30/2024,Merwyn,50666,Product Management,Community Outreach Specialist,Agender,Hatity,10.3,5,2,1.8,6.4,0,2,1.3,0.3,0.4,5,4.9,no
+2/18/2025,Reinhard,4005,Services,Research Assistant IV,Male,Prodder,16.4,4,1,7.6,3.6,9,0,1.9,12.7,1.5,16,3.0,yes
+12/15/2024,Livy,33,Accounting,Quality Engineer,Female,Zaam-Dox,7.0,2,2,6.7,2.6,10,1,0.5,7.5,2.9,14,2.9,no
+3/22/2025,Rhodie,4,Human Resources,Speech Pathologist,Female,Y-find,10.6,5,3,1.5,3.5,8,3,0.8,8.5,1.4,17,5.0,no
+12/29/2024,Sonnie,634,Research and Development,Community Outreach Specialist,Male,Namfix,4.0,4,3,7.8,6.4,9,2,0.8,5.5,4.3,12,3.0,no
+6/30/2024,Brockie,553,Legal,Registered Nurse,Male,Lotlux,15.5,4,2,1.1,6.0,4,1,1.2,8.2,1.4,1,2.6,no
+1/14/2025,Fifi,05,Marketing,Junior Executive,Female,Vagram,4.5,1,1,6.0,5.7,9,5,0.6,2.7,3.7,10,2.5,no
+12/25/2024,Kippar,04,Accounting,Engineer IV,Male,Flowdesk,29.0,5,3,2.0,3.6,6,5,2.0,14.8,3.3,3,2.5,no
+6/15/2024,Constantine,5,Product Management,Research Associate,Female,Vagram,5.7,2,4,1.1,3.0,6,3,1.1,5.7,4.9,15,1.6,no
+4/21/2025,Vidovic,413,Legal,Chief Design Engineer,Male,Flexidy,3.4,2,5,3.0,4.4,3,4,1.4,14.7,0.2,18,3.7,yes
+4/30/2025,Sascha,0,Accounting,Automation Specialist II,Female,Namfix,26.7,3,1,3.9,4.5,3,3,1.7,3.5,3.3,9,2.5,no
+4/9/2025,Svend,98388,Business Development,Product Engineer,Male,Bigtax,8.8,2,2,1.4,3.0,8,1,1.1,2.0,1.6,10,2.4,yes
+1/19/2025,Carmina,246,Services,Dental Hygienist,Female,Tin,15.2,1,5,0.7,5.3,8,0,0.8,1.0,4.3,8,3.7,no
+4/28/2025,Elane,87289,Sales,Product Engineer,Female,Duobam,6.6,2,4,2.9,6.1,7,4,1.1,10.3,4.2,10,2.4,yes
+9/19/2024,Sven,6,Services,VP Sales,Male,Wrapsafe,22.3,3,4,6.0,1.0,10,2,1.9,0.2,1.2,13,3.2,yes
+10/13/2024,Terrill,580,Training,Human Resources Assistant I,Male,Mat Lam Tam,4.1,2,5,1.2,3.4,7,1,1.1,5.8,0.8,17,4.3,no
+7/28/2024,Callie,32164,Sales,VP Quality Control,Polygender,Veribet,23.6,3,1,5.2,6.9,1,0,1.9,13.2,0.5,20,1.6,yes
+7/17/2024,Gauthier,811,Legal,Database Administrator IV,Male,Wrapsafe,18.9,3,4,3.3,7.4,9,1,1.1,2.0,0.6,3,2.6,no
+8/30/2024,Carie,43,Training,Community Outreach Specialist,Female,Bamity,14.1,1,2,2.6,5.9,8,1,0.8,5.4,0.7,4,2.1,no
+11/19/2024,Caspar,462,Research and Development,Operator,Male,Wrapsafe,16.4,1,1,5.6,1.2,2,3,1.5,2.0,2.8,10,4.6,no
+9/30/2024,Ophelie,3,Engineering,Information Systems Manager,Bigender,Viva,22.2,5,1,7.3,4.7,9,2,1.9,4.6,4.9,18,1.5,no
+9/9/2024,Allyson,03,Engineering,Office Assistant II,Female,Konklux,26.6,1,5,3.4,6.1,3,2,0.6,7.3,2.9,9,2.5,no
+4/7/2025,Barnett,18,Sales,Senior Editor,Male,Toughjoyfax,28.4,4,5,4.8,3.2,2,3,1.5,2.4,3.0,12,3.9,yes
+10/18/2024,Nissy,0091,Human Resources,Chemical Engineer,Female,Treeflex,4.8,3,1,5.1,6.5,10,1,1.1,5.0,2.6,2,1.4,no
+10/28/2024,Hewe,85,Engineering,Assistant Professor,Male,Cardguard,19.5,5,5,4.4,2.6,5,3,1.2,12.4,4.1,7,1.9,no
+9/27/2024,Lilli,5,Training,Structural Analysis Engineer,Non-binary,Alphazap,15.0,3,1,3.1,1.1,1,5,0.5,0.2,4.5,0,3.6,yes
+10/20/2024,Chauncey,6470,Training,Accounting Assistant IV,Male,Duobam,15.9,3,1,1.6,4.5,3,3,1.7,10.7,1.4,15,3.7,yes
+9/2/2024,Jodee,7498,Product Management,Quality Control Specialist,Female,Zamit,9.3,5,1,6.4,4.6,2,0,1.8,12.6,2.0,20,1.9,yes
+3/5/2025,Sabrina,751,Support,Computer Systems Analyst II,Non-binary,Subin,12.3,1,1,7.1,3.8,0,5,1.7,13.5,1.9,11,4.1,no
+12/13/2024,Shane,65676,Human Resources,Research Assistant IV,Polygender,Konklab,29.9,3,2,6.0,6.1,4,5,0.7,3.5,3.4,11,2.9,yes
+11/1/2024,Tanny,53,Support,Senior Sales Associate,Male,Voltsillam,22.7,3,2,4.8,1.8,0,5,1.2,10.2,3.6,9,2.3,no
+4/4/2025,Kerry,053,Marketing,Geological Engineer,Male,Opela,21.6,1,5,1.4,5.4,1,4,1.5,5.4,4.2,3,2.0,no
+7/2/2024,Brockie,0,Accounting,Librarian,Male,Subin,15.5,3,4,5.0,3.7,10,4,0.8,1.0,2.9,15,3.6,no
+4/11/2025,Britney,293,Sales,Account Executive,Female,Tresom,3.9,1,1,5.5,3.5,6,2,1.8,6.9,3.9,2,3.5,no
+10/26/2024,Ronica,6,Product Management,Research Nurse,Female,Sub-Ex,5.3,1,3,4.7,1.1,3,1,1.9,2.5,4.8,2,3.6,no
+7/20/2024,Corinna,17,Human Resources,Financial Advisor,Polygender,Sonair,28.2,4,3,5.4,1.1,8,3,1.3,9.8,1.0,17,1.6,no
+2/24/2025,Harriette,39049,Marketing,Internal Auditor,Female,Overhold,10.7,1,2,6.2,7.1,1,4,1.2,4.8,2.3,16,4.4,yes
+1/23/2025,Noni,6363,Product Management,Senior Editor,Female,Kanlam,7.4,3,5,2.3,7.5,7,2,1.8,11.6,3.9,19,4.6,yes
+2/28/2025,Timi,62207,Accounting,Senior Cost Accountant,Female,Y-Solowarm,29.7,1,3,6.7,6.1,9,3,1.6,12.6,0.4,18,1.4,yes
+1/8/2025,Ileane,23549,Business Development,Executive Secretary,Genderqueer,Fix San,3.8,4,1,2.4,6.5,7,2,0.7,7.8,3.1,5,2.8,no
+4/5/2025,Jeniffer,42,Research and Development,Senior Sales Associate,Female,Toughjoyfax,27.2,4,3,0.9,6.2,1,3,1.8,3.3,1.4,10,1.8,yes
+6/25/2024,Zach,4,Sales,Engineer IV,Male,Mat Lam Tam,1.1,2,3,5.9,2.5,2,5,1.8,9.7,0.5,18,1.8,yes
+3/27/2025,Emelina,25,Product Management,Speech Pathologist,Female,Home Ing,9.2,1,4,4.1,2.8,0,0,0.8,8.8,4.8,2,1.8,no
+8/6/2024,Fey,400,Engineering,Staff Scientist,Female,Matsoft,5.5,5,5,2.1,2.9,0,0,1.5,6.1,3.7,3,4.6,yes
+8/17/2024,Pieter,4,Research and Development,Account Representative III,Male,Domainer,25.3,3,4,2.1,1.2,7,5,1.9,14.6,1.3,2,1.6,no
+12/28/2024,Vincents,509,Services,Budget/Accounting Analyst I,Male,Sub-Ex,8.0,4,4,1.9,0.6,9,2,1.6,9.7,1.5,15,4.6,no
+1/27/2025,Flory,00486,Training,Sales Representative,Male,Fix San,13.6,3,2,2.8,4.3,3,5,0.6,12.5,0.7,8,2.2,no
+2/12/2025,Willi,661,Engineering,Clinical Specialist,Female,Fintone,10.9,5,5,0.8,6.0,2,3,1.8,8.1,1.0,13,4.6,no
+8/1/2024,Ric,0046,Legal,Recruiting Manager,Male,Bytecard,1.8,5,5,6.1,3.3,3,2,1.7,14.3,1.5,3,2.0,yes
+10/31/2024,Emile,6,Legal,Automation Specialist III,Male,Bigtax,29.3,1,3,3.6,0.4,9,0,0.8,8.9,3.7,2,2.6,yes
+6/29/2024,Valentino,21,Human Resources,Senior Cost Accountant,Male,Transcof,22.0,2,2,2.3,4.8,3,1,1.0,1.0,0.6,11,3.0,no
+3/16/2025,La verne,54,Research and Development,Internal Auditor,Female,Zamit,0.6,5,5,1.8,1.4,5,4,0.7,2.2,3.8,9,2.5,no
+3/11/2025,Amos,05316,Marketing,Account Executive,Male,Bitwolf,1.2,2,5,1.2,2.5,10,5,1.3,3.2,0.4,15,3.3,yes
+3/14/2025,Kelley,054,Accounting,Human Resources Manager,Female,Redhold,28.8,2,4,7.4,5.0,8,5,1.4,4.5,0.2,1,1.9,no
+2/26/2025,Car,5190,Legal,Marketing Assistant,Male,Keylex,15.3,1,2,1.5,2.9,2,2,1.0,14.1,4.3,16,1.9,yes
+11/4/2024,Leonhard,0397,Marketing,Senior Editor,Male,Y-find,23.0,2,5,7.3,6.7,4,0,1.9,7.2,4.8,13,2.3,yes
+11/14/2024,Queenie,2868,Human Resources,Senior Cost Accountant,Female,Stronghold,11.9,5,2,4.2,6.9,10,3,0.5,0.7,0.7,1,3.1,no
+8/17/2024,Fianna,4372,Marketing,VP Sales,Polygender,Asoka,29.3,2,1,7.0,6.0,6,0,2.0,1.1,4.0,4,4.1,no
+11/6/2024,Gun,7838,Training,Sales Associate,Male,Cardguard,6.3,4,5,4.3,2.0,7,3,1.2,14.2,2.6,15,2.8,yes
+6/10/2024,Ellswerth,7706,Human Resources,Systems Administrator III,Male,Vagram,27.1,4,1,2.7,0.4,3,5,1.9,10.5,2.7,19,2.2,no
+2/28/2025,Bobbe,56,Product Management,Help Desk Operator,Female,Tres-Zap,4.4,1,5,1.5,0.4,10,5,1.8,2.3,1.2,7,4.6,yes
+11/7/2024,Gracie,43908,Sales,Senior Editor,Female,Quo Lux,21.9,1,2,0.5,7.4,5,2,0.8,1.7,3.4,20,1.7,no
+1/10/2025,Nicolas,9596,Legal,VP Accounting,Genderfluid,Flowdesk,0.8,3,4,1.4,6.8,8,5,1.0,14.6,3.7,5,3.1,no
+7/7/2024,Niles,64,Human Resources,Librarian,Agender,Zathin,14.0,3,1,7.7,1.3,9,0,1.2,11.1,4.2,18,4.2,yes
+3/20/2025,Wyn,90,Research and Development,Food Chemist,Male,Voltsillam,25.2,5,1,7.4,6.9,2,5,1.8,10.7,3.1,4,4.0,no
+7/18/2024,Darcey,72,Training,Account Coordinator,Female,Aerified,22.7,4,4,7.7,7.6,3,5,1.1,12.0,4.3,8,2.1,no
+10/13/2024,Brantley,0,Legal,VP Accounting,Male,Zathin,8.2,1,3,2.4,0.2,7,3,1.4,14.1,3.4,14,2.3,yes
+5/2/2025,Jannelle,2875,Engineering,Database Administrator IV,Female,Subin,14.0,3,1,1.1,0.3,2,2,0.5,14.5,2.2,19,3.0,no
+9/21/2024,Evelyn,75,Sales,Librarian,Female,Sonair,27.2,5,3,2.3,2.2,10,5,1.2,0.6,3.1,7,3.4,no
+7/14/2024,Christabel,7,Business Development,Statistician III,Female,Opela,8.0,2,3,6.3,2.6,7,0,1.9,4.4,1.8,7,3.9,yes
+3/30/2025,Kennith,459,Services,Social Worker,Male,Regrant,3.2,1,3,0.8,0.5,9,0,1.7,6.1,0.7,13,3.6,yes
+3/20/2025,Shelby,2,Training,Health Coach IV,Female,Hatity,16.4,5,4,1.1,7.1,6,1,1.1,5.6,0.7,17,4.1,no
+1/10/2025,Cordula,01,Product Management,Web Designer IV,Female,Voltsillam,20.7,3,5,3.6,6.9,9,4,1.4,2.4,3.8,13,2.4,yes
+1/27/2025,Dasie,704,Business Development,Project Manager,Female,Wrapsafe,23.1,1,3,6.1,5.2,9,2,1.8,12.7,0.4,14,3.5,no
+2/1/2025,Matthiew,63,Training,Operator,Genderfluid,Fintone,18.0,2,2,3.6,6.1,5,5,1.4,7.6,1.1,14,2.7,yes
+5/3/2025,Reinhard,20,Accounting,Cost Accountant,Male,Ventosanzap,23.0,3,2,3.0,0.2,9,0,0.5,8.4,4.9,14,2.8,yes
+5/16/2025,Kirsti,037,Marketing,Quality Control Specialist,Female,Subin,17.4,3,4,1.7,2.4,5,3,0.7,4.5,3.2,3,3.0,yes
+4/28/2025,Rosana,01,Services,Software Consultant,Female,Keylex,26.7,2,2,6.9,6.5,9,0,0.9,14.6,4.5,2,4.1,yes
+2/28/2025,Marchall,22,Accounting,Clinical Specialist,Male,Zamit,17.6,2,2,3.2,7.2,6,3,1.0,6.6,4.1,14,3.4,no
+2/14/2025,Padgett,13,Research and Development,Electrical Engineer,Male,Zamit,11.8,5,4,4.2,4.3,5,3,1.5,8.5,3.1,15,2.6,yes
+10/6/2024,Rosalia,8095,Accounting,Research Associate,Female,Zoolab,26.1,3,2,2.6,7.0,0,5,0.7,6.0,2.6,2,2.6,no
+1/21/2025,Isadore,048,Training,Dental Hygienist,Male,Fixflex,12.5,5,4,5.7,0.7,0,2,1.1,5.7,4.8,5,3.9,yes
+10/4/2024,Christiano,3,Sales,Geological Engineer,Male,Mat Lam Tam,25.3,4,4,7.6,4.7,4,4,1.4,7.4,3.2,12,1.9,yes
+12/26/2024,Vidovic,29407,Legal,Teacher,Male,Andalax,0.3,5,3,4.5,1.9,3,0,0.6,0.8,4.9,11,4.5,no
+4/5/2025,Beitris,73,Engineering,Research Associate,Female,Quo Lux,12.0,1,4,4.5,7.4,5,0,0.7,13.4,2.7,10,2.3,yes
+4/29/2025,Aubrie,3300,Product Management,Social Worker,Female,Keylex,11.8,1,5,1.4,6.1,8,1,0.9,7.7,1.1,10,3.4,yes
+12/24/2024,Jordon,0087,Accounting,Assistant Professor,Genderfluid,Toughjoyfax,22.5,1,1,2.2,0.1,5,4,0.6,12.8,4.1,6,2.8,no
+1/15/2025,Carleton,0,Marketing,GIS Technical Architect,Male,Zontrax,28.7,3,5,2.6,1.4,9,3,1.8,15.0,0.0,2,1.9,yes
+6/6/2024,Cleve,46,Marketing,Software Engineer IV,Male,Domainer,6.9,1,2,4.3,4.3,4,4,1.0,2.1,1.3,19,1.7,no
+4/28/2025,Derrek,91507,Human Resources,Accounting Assistant III,Male,Zoolab,16.1,3,2,1.3,6.2,9,2,1.0,11.3,3.5,1,1.8,no
+9/16/2024,Natty,8,Accounting,Automation Specialist III,Female,Zathin,11.6,4,4,5.3,5.1,1,2,1.7,8.8,1.6,12,2.8,yes
+12/29/2024,Celestyn,963,Accounting,Food Chemist,Female,Sonsing,0.3,4,5,2.3,5.8,2,2,1.5,0.4,1.6,14,3.7,yes
+2/4/2025,Northrup,10512,Product Management,Clinical Specialist,Male,Matsoft,10.3,1,4,1.0,0.3,4,0,1.4,0.2,0.4,7,4.8,no
+5/25/2025,Wanda,846,Legal,Geological Engineer,Female,Konklab,18.8,2,3,6.1,3.8,0,0,0.7,8.6,0.9,7,3.9,no
+10/30/2024,Gregorius,2,Human Resources,Graphic Designer,Male,Home Ing,1.2,5,4,7.0,3.9,5,4,1.2,8.4,3.6,17,4.5,no
+5/30/2025,Thaddus,09,Legal,Biostatistician IV,Male,Ventosanzap,25.5,5,5,7.9,1.0,7,0,1.1,0.7,3.2,19,2.4,yes
+11/16/2024,Baryram,3445,Support,Geological Engineer,Male,Alphazap,23.5,4,5,4.7,4.9,0,4,1.9,5.3,0.3,17,1.7,no
+8/18/2024,Tadeas,342,Marketing,Teacher,Non-binary,Y-find,23.5,3,1,3.0,4.9,8,5,0.9,11.5,1.6,7,4.6,no
+4/3/2025,Catie,0849,Sales,Senior Developer,Female,Rank,1.6,4,1,1.4,7.1,6,2,0.8,14.0,1.1,7,1.8,yes
+12/25/2024,Dilan,16,Accounting,Geological Engineer,Polygender,Subin,13.2,3,3,2.2,3.3,8,4,1.5,3.3,4.0,10,4.0,yes
+3/24/2025,Mark,2965,Product Management,Compensation Analyst,Male,Bamity,1.3,1,4,6.5,3.5,5,0,0.7,0.5,3.6,0,4.7,yes
+6/13/2024,Jacynth,2446,Services,Staff Scientist,Non-binary,Y-Solowarm,28.9,4,4,0.7,3.0,3,4,1.4,14.7,2.8,18,3.4,yes
+8/2/2024,Damian,82,Product Management,Recruiter,Male,Tempsoft,20.9,2,5,2.5,2.9,0,3,1.3,2.2,2.9,17,3.6,no
+10/12/2024,Emilio,14935,Business Development,Actuary,Male,Wrapsafe,15.3,4,4,4.2,6.6,9,0,1.8,14.7,1.5,12,1.7,yes
+4/7/2025,Hermie,33,Product Management,Developer I,Male,It,26.5,3,1,1.0,3.2,1,0,0.7,6.1,0.5,10,3.1,yes
+12/14/2024,Chickie,5,Engineering,Automation Specialist III,Male,Stim,18.5,4,3,1.1,6.7,10,2,1.2,7.5,1.9,0,4.3,yes
+1/17/2025,Tammy,64,Legal,Budget/Accounting Analyst IV,Polygender,Cardify,2.8,2,1,2.8,5.6,0,2,1.8,13.1,0.0,6,2.0,no
+11/16/2024,Jasmine,94455,Human Resources,Financial Advisor,Female,Pannier,0.7,4,3,7.3,3.6,10,4,0.6,8.4,0.4,3,3.8,no
+3/2/2025,Phineas,52,Accounting,Software Engineer IV,Male,Matsoft,22.4,5,3,1.2,7.2,3,0,1.9,13.4,0.5,16,1.9,no
+3/24/2025,Madelene,68,Accounting,Technical Writer,Female,Veribet,8.1,5,4,4.3,5.9,3,4,0.9,10.4,4.9,1,1.7,yes
+2/5/2025,Kristofor,6,Accounting,Recruiter,Male,Daltfresh,25.2,5,2,2.3,1.9,7,1,0.8,8.6,1.5,20,1.6,yes
+10/3/2024,Gae,33790,Services,Product Engineer,Female,Sub-Ex,18.3,5,5,6.6,2.4,1,0,1.2,14.6,3.6,0,2.4,yes
+8/18/2024,Tessy,0,Accounting,Senior Developer,Genderfluid,Fix San,28.7,2,5,3.3,7.6,6,0,1.8,1.7,4.3,8,3.4,yes
+9/16/2024,Thaddeus,77662,Product Management,Budget/Accounting Analyst IV,Male,Stronghold,7.3,3,3,1.8,7.1,4,4,1.7,3.6,3.9,8,2.8,no
+2/23/2025,Abagael,7733,Product Management,Design Engineer,Female,Andalax,11.0,4,1,7.9,1.1,10,5,1.2,7.3,0.4,2,1.1,no
+12/1/2024,Harland,13402,Sales,Accounting Assistant II,Male,Konklab,22.2,5,1,6.1,4.2,5,1,1.9,7.2,3.7,17,1.4,yes
+1/28/2025,Patrick,384,Engineering,Graphic Designer,Male,It,26.4,5,5,2.7,3.7,4,1,2.0,6.2,0.5,19,3.5,no
+4/23/2025,Minerva,039,Engineering,Research Associate,Female,Subin,14.4,5,3,7.3,7.7,3,4,0.5,9.8,3.3,5,2.8,yes
+12/9/2024,Demetre,126,Product Management,Director of Sales,Male,Alphazap,12.7,3,5,1.2,2.2,10,3,0.9,7.4,4.6,18,2.6,yes
+12/2/2024,Lindsay,0200,Research and Development,VP Product Management,Male,Holdlamis,17.5,4,4,7.5,1.0,8,1,1.8,11.8,1.5,16,4.7,no
+2/13/2025,Durant,8,Marketing,Chemical Engineer,Non-binary,Transcof,10.8,2,5,7.4,6.8,2,5,0.9,12.5,2.7,14,3.0,no
+3/6/2025,Felipe,5489,Human Resources,Human Resources Manager,Male,Ventosanzap,0.9,2,5,1.1,4.3,6,4,1.4,6.6,3.3,19,2.2,yes
+9/11/2024,Stacia,4218,Product Management,Administrative Officer,Female,It,25.8,4,2,5.1,4.9,10,5,0.7,4.5,2.1,3,4.5,yes
+10/23/2024,Bertie,4,Support,Nurse Practicioner,Female,Gembucket,5.7,5,4,5.6,0.3,4,5,1.2,11.9,4.5,3,4.5,yes
+4/10/2025,Lana,887,Services,Physical Therapy Assistant,Bigender,Redhold,18.5,4,5,3.8,5.2,10,4,1.3,11.4,4.5,4,1.8,no
+12/4/2024,Quinlan,9,Legal,General Manager,Male,Matsoft,21.9,3,2,2.6,0.2,3,4,1.6,9.4,0.9,6,4.3,no
+2/24/2025,Bunny,3,Accounting,Nuclear Power Engineer,Female,Asoka,18.0,4,5,3.4,1.6,7,2,1.8,6.3,0.5,17,2.3,yes
+12/20/2024,Albertina,7721,Product Management,Recruiting Manager,Female,Stronghold,10.9,3,5,3.6,6.8,4,3,1.3,8.1,2.1,12,3.6,yes
+6/5/2024,Sherilyn,1,Research and Development,Web Designer I,Female,Stim,26.1,4,1,2.3,0.8,4,0,0.9,7.2,0.2,14,3.0,no
+5/8/2025,Elizabet,434,Engineering,Account Representative I,Female,Greenlam,4.1,1,1,2.0,6.6,4,0,0.7,14.7,4.5,3,4.8,yes
+11/24/2024,Sheilakathryn,141,Human Resources,VP Sales,Female,Namfix,4.0,1,3,5.3,1.0,4,1,1.1,9.0,4.7,7,3.2,no
+1/19/2025,Michele,288,Sales,General Manager,Female,Domainer,3.2,5,4,5.3,4.5,5,4,0.6,5.8,0.7,2,2.0,no
+6/25/2024,Sofia,99333,Services,Analyst Programmer,Female,Ventosanzap,29.5,5,1,7.2,4.8,9,5,1.6,5.7,2.7,5,4.5,no
+8/15/2024,Simone,157,Support,Web Designer IV,Female,Aerified,17.4,5,5,4.9,1.8,6,0,1.1,1.0,4.8,20,1.9,yes
+9/20/2024,Daffy,581,Services,Electrical Engineer,Female,Veribet,0.8,5,5,2.8,4.2,2,2,0.9,0.9,4.2,13,2.0,no
+2/15/2025,Juana,504,Accounting,Teacher,Female,Zaam-Dox,0.0,1,4,6.1,3.8,4,2,1.0,12.3,2.0,19,4.2,yes
+4/3/2025,Melisent,9,Accounting,Automation Specialist II,Female,Viva,13.5,2,1,7.5,2.7,2,5,1.4,2.4,2.7,1,3.6,no
+8/22/2024,Shir,15,Training,Director of Sales,Female,Konklab,4.8,4,2,3.2,7.7,1,3,1.0,4.8,0.1,3,2.2,yes
+8/31/2024,Zara,01,Services,Environmental Specialist,Female,Otcom,3.5,5,1,1.7,2.4,9,1,0.7,13.6,4.0,2,2.1,yes
+5/4/2025,Thor,2,Business Development,Speech Pathologist,Male,Domainer,27.0,1,1,4.8,2.8,7,1,1.3,8.0,2.2,2,2.3,yes
+12/15/2024,Raul,95694,Business Development,Safety Technician II,Male,Namfix,12.7,2,1,1.2,4.8,9,1,1.5,2.6,0.7,4,3.9,no
+12/2/2024,Lisabeth,8,Services,Dental Hygienist,Female,Zaam-Dox,14.8,5,1,4.1,5.6,2,1,1.4,13.7,0.3,14,1.5,no
+3/1/2025,Cybil,61,Services,Compensation Analyst,Female,Bigtax,19.5,4,2,7.0,1.5,3,1,0.6,2.1,2.1,10,4.5,no
+3/7/2025,Puff,9,Support,Financial Advisor,Male,Matsoft,29.1,5,3,0.8,4.3,9,3,1.8,12.5,3.1,20,2.0,no
+11/7/2024,Cinnamon,107,Services,Physical Therapy Assistant,Female,Y-Solowarm,4.6,1,2,5.6,3.2,8,3,0.8,3.0,1.3,12,2.5,yes
+1/31/2025,Ertha,78,Product Management,Professor,Female,Otcom,6.3,4,5,2.2,0.8,5,0,1.5,8.2,0.0,20,2.3,no
+8/11/2024,Woodie,28,Accounting,Speech Pathologist,Non-binary,Temp,20.6,5,2,3.2,0.3,2,0,1.0,9.1,4.1,12,2.2,no
+1/29/2025,Viviyan,88531,Marketing,Account Coordinator,Female,Cardguard,25.9,4,4,4.7,4.9,4,0,0.7,13.0,0.9,16,3.5,yes
+5/28/2025,Ferdinand,9360,Training,Web Designer III,Male,Keylex,28.6,5,1,3.4,1.5,1,3,1.1,14.0,2.9,11,1.3,yes
+1/15/2025,Gray,6,Marketing,Operator,Female,Tin,28.9,5,4,2.4,3.3,5,2,1.9,11.7,2.8,3,1.0,yes
+12/10/2024,Newton,21,Accounting,Engineer I,Male,Ventosanzap,2.0,4,3,5.9,5.2,6,0,0.6,10.0,3.6,13,4.6,yes
+4/1/2025,Gianina,2932,Legal,Engineer IV,Female,Treeflex,26.0,1,4,4.1,2.8,3,2,1.4,1.6,0.1,20,3.9,yes
+7/4/2024,Christean,41,Legal,Sales Representative,Female,Lotstring,19.3,4,3,5.3,1.6,7,0,1.5,0.4,1.9,5,2.6,no
+5/5/2025,Laurence,6,Training,Senior Financial Analyst,Male,Alphazap,11.2,5,3,7.5,0.8,7,2,0.8,3.8,0.3,19,1.7,no
+11/8/2024,Linzy,32,Marketing,VP Marketing,Female,Toughjoyfax,17.3,2,1,4.3,1.8,9,0,1.9,1.3,2.8,2,2.8,no
+5/26/2025,Legra,313,Marketing,Human Resources Manager,Female,Zaam-Dox,25.1,5,5,0.5,5.8,4,1,1.1,9.2,0.8,16,3.6,no
+3/15/2025,Rodrique,821,Engineering,Paralegal,Polygender,Cardguard,11.2,1,1,5.3,0.8,7,1,1.8,4.1,0.8,3,4.3,yes
+7/15/2024,Tilly,337,Support,Editor,Female,Veribet,0.7,5,5,7.7,6.9,5,0,1.4,0.1,0.1,18,4.5,yes
+8/29/2024,Dougy,04,Product Management,Clinical Specialist,Male,Quo Lux,0.6,2,3,4.3,7.2,4,5,1.9,9.6,2.0,7,3.8,yes
+8/22/2024,Robinia,23458,Business Development,Computer Systems Analyst II,Female,Sonsing,2.7,2,1,5.9,3.3,4,4,1.6,13.6,4.0,12,4.6,no
+5/10/2025,Elysha,056,Accounting,Financial Analyst,Female,Sub-Ex,6.1,5,3,5.9,3.5,10,5,1.5,8.4,1.2,19,4.4,yes
+3/27/2025,Pierette,0,Sales,Structural Analysis Engineer,Female,Alphazap,17.0,4,3,5.3,3.7,0,2,1.8,0.9,2.4,19,1.1,no
+4/8/2025,Ignace,6174,Business Development,Chemical Engineer,Male,Bamity,11.6,2,2,4.8,4.9,7,5,2.0,3.4,1.7,10,2.0,no
+12/11/2024,Loria,180,Services,Librarian,Female,Y-find,4.0,3,1,4.8,0.9,0,0,1.3,6.9,4.9,14,4.9,yes
+5/21/2025,Dori,43,Research and Development,Electrical Engineer,Female,Regrant,1.6,5,2,6.7,7.0,5,1,0.8,14.1,1.0,18,2.4,yes
+6/5/2024,Boony,1,Research and Development,Marketing Assistant,Male,Zamit,13.4,4,3,5.7,6.2,2,5,1.6,7.1,2.4,2,3.5,no
+6/28/2024,Ciel,48333,Services,Help Desk Operator,Female,Alphazap,28.8,4,1,0.8,0.1,10,5,1.7,14.6,1.4,0,2.0,yes
+9/15/2024,Fitz,5730,Accounting,Community Outreach Specialist,Male,Fix San,11.5,3,2,5.9,2.0,9,5,1.0,6.1,3.9,18,3.0,yes
+5/21/2025,Bridgette,097,Services,VP Product Management,Female,Konklux,24.1,5,4,1.6,4.7,4,0,1.0,2.9,1.7,11,1.8,yes
+9/24/2024,Daniel,3,Research and Development,Human Resources Manager,Male,Tampflex,23.4,5,3,3.1,6.6,0,0,1.8,11.3,3.2,13,5.0,no
+1/6/2025,Connor,403,Engineering,Software Test Engineer IV,Male,Regrant,18.0,5,4,5.7,4.5,5,3,1.4,4.8,0.5,1,2.8,no
+5/2/2025,Emmie,62,Human Resources,Geological Engineer,Female,Lotlux,2.6,4,3,2.1,0.1,3,4,0.6,4.2,0.3,16,2.7,yes
+4/26/2025,Lois,4871,Research and Development,Information Systems Manager,Female,Duobam,23.1,5,4,6.7,4.6,6,1,1.6,9.2,2.0,18,4.6,no
+2/7/2025,Dorie,99451,Support,Clinical Specialist,Male,Subin,28.9,4,2,2.3,7.9,9,4,0.7,4.8,1.4,13,1.4,yes
+3/11/2025,Modesty,1203,Engineering,Occupational Therapist,Female,Veribet,20.6,2,3,4.8,2.0,1,4,1.3,12.0,0.3,2,1.9,yes
+9/25/2024,Dari,71,Legal,Software Engineer II,Agender,Fixflex,0.8,1,3,5.0,0.3,5,1,1.0,3.8,0.9,7,1.2,no
+1/17/2025,Gill,0050,Marketing,Database Administrator III,Genderqueer,Veribet,8.8,4,3,6.6,7.3,9,2,1.3,14.8,1.4,18,3.4,no
+9/29/2024,Dud,9855,Engineering,Administrative Officer,Male,Y-find,1.8,2,5,1.2,2.3,3,2,1.7,11.4,4.4,4,1.4,yes
+8/24/2024,Rowney,3,Services,Web Developer III,Male,Aerified,24.4,2,4,7.7,2.3,10,2,1.1,4.7,4.0,2,4.7,no
+11/8/2024,Marilee,5,Research and Development,Financial Analyst,Female,Sonair,19.1,5,4,5.1,7.0,7,2,1.6,8.5,4.0,2,1.2,no
+10/20/2024,Anjanette,56,Support,Quality Engineer,Female,It,25.9,2,4,7.1,3.4,5,1,1.7,5.2,4.9,1,3.5,no
+3/25/2025,Rasia,17,Business Development,Sales Associate,Female,Lotlux,4.9,1,2,4.6,6.0,9,0,1.2,12.9,1.1,14,4.8,no
+1/5/2025,Teddi,4,Research and Development,Software Engineer III,Female,Prodder,25.5,2,5,2.3,6.7,2,5,2.0,7.6,1.8,19,4.4,no
+8/23/2024,Dahlia,92031,Research and Development,Nurse,Female,Zoolab,8.2,3,3,2.4,1.7,5,1,1.6,2.1,4.2,11,2.9,yes
+1/27/2025,Legra,736,Training,Assistant Manager,Female,Bamity,11.1,4,1,6.0,7.6,3,3,1.7,13.6,1.3,20,4.4,yes
+5/12/2025,Bryce,939,Product Management,Staff Scientist,Male,Duobam,21.6,2,2,5.2,3.2,5,0,1.5,13.2,3.8,13,1.4,no
+4/26/2025,Remington,953,Support,Director of Sales,Male,Domainer,2.1,5,4,3.6,1.1,5,0,0.8,5.7,0.3,20,1.9,yes
+3/10/2025,Nikki,537,Sales,Product Engineer,Female,Home Ing,13.4,5,2,1.2,3.1,9,1,0.8,3.6,3.5,4,2.8,no
+3/1/2025,Rinaldo,3,Business Development,Professor,Male,Flowdesk,9.0,5,5,6.7,7.8,9,4,1.6,1.6,3.9,14,1.2,no
+8/12/2024,Emili,1,Services,Accounting Assistant II,Female,Redhold,27.3,1,5,7.0,7.4,5,2,0.6,13.5,3.6,5,3.7,no
+10/15/2024,Codie,43607,Sales,Financial Advisor,Male,Prodder,6.2,1,1,4.2,1.2,1,3,1.1,5.1,2.2,20,1.5,yes
+10/13/2024,Kissie,903,Legal,Nurse,Female,Lotstring,2.3,2,3,4.2,2.5,6,2,1.1,8.4,0.1,1,2.6,yes
+2/12/2025,Farris,83,Research and Development,VP Accounting,Male,Stim,19.1,4,4,1.6,2.2,1,4,1.4,5.8,4.7,16,1.2,yes
+10/26/2024,Evonne,4,Services,Account Executive,Female,Regrant,11.7,3,2,7.0,3.2,5,3,1.1,2.6,0.8,8,1.7,no
+2/26/2025,Crissie,517,Sales,Budget/Accounting Analyst I,Female,Span,18.3,1,4,3.2,4.2,7,0,1.6,9.0,3.9,5,2.5,no
+7/22/2024,Rey,54696,Marketing,Payment Adjustment Coordinator,Female,Treeflex,17.5,1,5,3.9,4.0,0,5,1.9,6.5,0.1,12,1.8,yes
+12/19/2024,Eda,6381,Engineering,Cost Accountant,Female,Zontrax,25.2,4,3,7.2,6.5,7,0,0.9,5.3,4.4,13,3.9,yes
+5/19/2025,Annalee,511,Product Management,Assistant Media Planner,Female,Hatity,18.1,1,5,7.5,4.2,6,0,1.2,5.9,2.1,15,4.5,no
+5/23/2025,Michal,56936,Research and Development,Structural Engineer,Male,Latlux,1.9,1,5,4.2,7.2,7,0,1.3,5.1,3.5,16,2.7,no
+3/5/2025,Lissy,3747,Research and Development,Office Assistant IV,Bigender,Tampflex,23.6,4,1,6.8,4.2,3,4,1.4,0.3,3.8,14,3.1,yes
+9/9/2024,Noella,999,Services,Compensation Analyst,Female,Cookley,20.2,4,2,5.6,3.1,4,2,1.9,14.9,0.5,8,4.9,yes
+7/26/2024,Aurlie,90,Legal,Office Assistant III,Female,Daltfresh,11.7,3,2,5.6,6.4,6,5,1.7,1.4,3.1,19,2.1,no
+11/15/2024,Lydon,07512,Engineering,Pharmacist,Male,Gembucket,27.0,4,1,2.8,3.9,9,2,1.9,12.5,3.0,13,4.8,yes
+9/9/2024,Heloise,944,Sales,Clinical Specialist,Female,Fixflex,0.7,4,1,4.1,1.6,5,0,0.8,8.3,2.2,6,2.1,yes
+12/7/2024,Cordie,0,Business Development,Quality Control Specialist,Male,Tres-Zap,10.4,4,4,4.3,5.4,3,4,1.3,2.0,2.7,0,2.6,no
+10/29/2024,Ravid,854,Legal,Marketing Assistant,Male,Voyatouch,9.5,3,3,1.9,3.4,1,3,1.3,3.7,4.3,18,1.4,no
+3/31/2025,Gwennie,89677,Business Development,Associate Professor,Female,Subin,16.5,4,2,1.1,1.2,2,2,1.1,14.9,2.8,1,3.5,no
+10/6/2024,Gannon,24300,Business Development,Assistant Media Planner,Male,Ventosanzap,14.5,1,4,7.2,2.0,4,0,0.6,0.6,3.3,7,3.9,yes
+3/8/2025,Alexandro,412,Engineering,Marketing Manager,Male,It,9.0,3,5,5.0,0.7,8,1,1.5,2.5,0.7,11,4.9,yes
+2/21/2025,Hilton,5084,Engineering,Paralegal,Male,Otcom,3.1,5,3,6.2,5.8,4,3,1.8,8.9,5.0,14,1.6,yes
+2/28/2025,Dunn,57306,Research and Development,Quality Engineer,Male,Flexidy,25.9,2,4,5.2,5.0,5,3,0.9,14.6,1.6,18,3.3,yes
+5/1/2025,Sallyann,2293,Accounting,Chemical Engineer,Female,Tres-Zap,15.0,5,3,0.5,4.8,4,3,1.1,9.2,1.5,10,3.0,no
+10/10/2024,Dunn,6,Product Management,Business Systems Development Analyst,Male,Rank,26.5,1,5,4.4,3.3,5,4,0.6,13.1,4.8,19,1.5,yes
+10/5/2024,Stefanie,922,Marketing,Marketing Assistant,Female,Zaam-Dox,12.0,1,4,1.3,4.9,3,2,0.9,2.6,2.4,17,2.9,no
+10/12/2024,Wenonah,43962,Human Resources,Software Test Engineer I,Female,Subin,13.5,4,5,4.9,5.0,7,5,1.3,10.8,5.0,15,1.2,no
+12/26/2024,Eirena,9312,Legal,Sales Associate,Female,Sonair,17.7,3,5,7.5,1.2,7,2,0.7,3.5,1.4,20,3.9,no
+3/6/2025,Erie,7,Research and Development,Database Administrator III,Male,It,23.3,5,3,2.4,2.0,0,4,1.2,14.5,4.1,5,3.5,yes
+1/23/2025,Kale,4180,Sales,Food Chemist,Male,Viva,10.0,3,3,2.0,6.8,6,4,1.5,4.2,2.8,18,1.9,no
+5/7/2025,Matilda,0,Human Resources,Accountant IV,Female,Flexidy,29.6,5,5,5.6,7.8,7,5,1.4,6.1,0.7,14,4.6,no
+3/10/2025,Mahmud,192,Services,Human Resources Manager,Bigender,Tin,20.4,4,5,3.0,5.8,1,0,1.8,5.9,0.3,8,1.9,yes
+11/26/2024,Seamus,658,Training,Assistant Manager,Male,Sonair,23.3,2,4,1.8,5.2,9,4,1.3,7.3,3.1,8,2.4,yes
+5/20/2025,Wendy,79780,Human Resources,Human Resources Assistant II,Female,Ventosanzap,16.7,5,3,7.5,3.8,8,5,1.0,0.4,4.5,9,4.8,yes
+5/31/2025,Christie,2,Accounting,Engineer III,Female,Bamity,22.1,4,4,5.4,4.8,9,2,1.5,14.6,0.4,0,4.7,no
+4/23/2025,Elianora,0234,Research and Development,Desktop Support Technician,Genderfluid,Wrapsafe,2.2,5,2,5.7,2.1,1,3,0.9,10.4,4.2,19,2.8,yes
+11/30/2024,Edmund,57,Product Management,Automation Specialist II,Male,Voyatouch,10.2,3,4,1.7,6.6,9,0,1.2,0.6,0.6,15,3.6,no
+5/28/2025,Angy,84961,Marketing,Structural Engineer,Female,Bamity,2.4,2,3,4.3,3.5,3,0,0.6,10.1,4.0,18,2.4,yes
+3/8/2025,Rina,901,Services,Geologist II,Female,Temp,8.1,1,5,1.9,3.3,2,3,0.8,9.5,1.9,6,4.8,no
+6/2/2025,Conrade,50980,Human Resources,Software Consultant,Male,Gembucket,2.9,1,1,5.3,0.3,4,0,0.8,3.6,4.7,9,4.0,yes
+4/12/2025,Elfrida,06,Research and Development,Nurse,Female,Keylex,0.0,5,5,5.4,7.8,3,2,1.6,10.1,0.2,1,2.2,no
+9/25/2024,Tricia,76275,Accounting,Chemical Engineer,Female,Kanlam,7.8,3,1,7.5,0.0,2,2,1.8,6.7,0.3,12,1.0,no
+11/2/2024,Doroteya,71,Business Development,Mechanical Systems Engineer,Non-binary,Temp,28.6,4,5,3.5,1.1,7,0,1.3,7.4,2.2,4,3.4,yes
+7/9/2024,Devonna,6,Services,Sales Associate,Female,Tin,29.4,4,2,6.9,6.8,4,1,0.6,11.6,0.1,3,2.2,yes
+6/16/2024,Davita,11020,Human Resources,Sales Representative,Female,Pannier,28.4,5,2,7.5,4.3,4,2,1.8,10.8,1.4,20,1.8,yes
+11/26/2024,Gabriello,081,Human Resources,Nuclear Power Engineer,Male,Gembucket,7.9,1,4,3.4,7.4,7,3,1.6,3.7,0.0,12,3.5,no
+3/12/2025,Emanuel,946,Research and Development,Director of Sales,Male,Hatity,16.5,3,4,6.9,0.7,2,5,2.0,2.4,2.9,5,2.8,yes
+9/2/2024,Gus,741,Product Management,Office Assistant IV,Female,Temp,5.3,3,3,6.2,4.3,9,4,1.8,9.0,2.5,1,4.9,yes
+9/21/2024,Bary,0,Support,Speech Pathologist,Male,Fixflex,22.1,3,1,7.1,6.4,4,4,0.9,7.6,2.4,7,3.1,yes
+5/28/2025,Cort,8,Marketing,Administrative Assistant II,Male,Home Ing,16.2,1,4,7.0,2.4,10,5,1.8,10.4,0.3,14,3.1,no
+12/1/2024,Tabina,38133,Research and Development,Product Engineer,Female,Veribet,15.1,2,2,6.4,2.5,10,3,2.0,5.2,1.6,8,2.9,yes
+8/1/2024,Toddie,053,Human Resources,Mechanical Systems Engineer,Male,Rank,27.4,1,4,7.8,1.9,10,3,2.0,10.2,4.2,7,4.6,yes
+11/29/2024,Scott,37134,Services,Research Nurse,Male,Duobam,5.9,1,4,3.1,4.7,8,5,1.5,13.1,2.2,12,4.7,no
+4/27/2025,Fenelia,88,Training,Safety Technician IV,Female,Otcom,1.8,4,4,6.8,1.6,8,3,1.3,14.9,2.8,14,1.8,no
+9/11/2024,Clerissa,53,Product Management,Sales Associate,Female,Sonair,14.2,4,2,3.0,3.9,7,5,1.0,0.5,4.7,7,4.4,no
+8/9/2024,Marley,3,Training,Administrative Officer,Female,Transcof,1.8,2,5,4.2,3.0,3,0,1.6,5.7,0.7,6,2.9,yes
+7/24/2024,Dorree,687,Product Management,Actuary,Female,Y-find,11.9,1,1,3.2,4.3,1,4,1.9,2.8,3.0,14,3.7,no
+4/21/2025,Jennilee,80,Engineering,Human Resources Assistant III,Female,Span,2.8,5,1,4.5,0.2,7,1,0.5,5.0,4.9,3,3.2,yes
+4/16/2025,Nero,6,Training,Recruiting Manager,Male,Redhold,8.3,3,1,4.5,5.5,1,5,1.2,0.1,3.0,16,3.5,yes
+8/14/2024,Huntley,37,Sales,Civil Engineer,Male,Voltsillam,9.0,1,4,5.9,2.8,10,2,1.0,11.6,2.0,13,3.0,no
+1/20/2025,Jeanne,320,Business Development,Help Desk Technician,Female,Aerified,19.0,4,4,2.0,6.4,7,5,0.8,2.5,2.1,14,1.8,no
+7/15/2024,Corbin,6441,Support,Human Resources Assistant II,Male,Solarbreeze,19.6,2,3,1.7,1.5,8,4,1.7,2.7,1.3,13,3.7,no
+5/15/2025,Agneta,6110,Support,Automation Specialist I,Bigender,Opela,21.7,4,2,6.1,0.1,3,1,1.7,1.1,0.5,10,2.6,yes
+6/5/2024,Ward,513,Accounting,Web Developer IV,Agender,Redhold,11.9,5,5,7.8,2.4,2,0,1.6,14.0,2.7,1,3.0,yes
+10/5/2024,Erina,01860,Human Resources,Assistant Media Planner,Agender,Quo Lux,26.1,1,2,2.3,5.0,0,3,1.3,9.4,3.7,17,2.8,no
+11/28/2024,Rona,8,Legal,Chemical Engineer,Female,Stim,11.3,4,4,5.4,3.1,3,5,1.5,11.2,0.3,14,3.4,yes
+10/24/2024,Giavani,952,Legal,Engineer IV,Male,Keylex,3.1,3,1,1.7,3.8,3,3,1.1,4.0,0.7,19,3.9,no
+5/30/2025,Ezri,88,Support,Director of Sales,Polygender,Solarbreeze,14.0,2,4,2.7,5.3,4,4,1.0,10.6,0.0,4,3.8,no
+12/24/2024,Hermie,7561,Training,Social Worker,Male,Ronstring,6.5,4,1,1.3,5.2,5,1,1.5,11.9,1.0,5,4.5,yes
+7/22/2024,Jaimie,91317,Legal,Senior Quality Engineer,Male,Lotlux,14.9,5,1,3.1,1.2,10,1,1.6,14.5,1.9,8,4.1,no
+11/27/2024,Karon,4407,Product Management,Research Associate,Female,Fix San,7.8,3,3,4.9,4.1,7,2,1.9,11.7,2.1,5,3.5,yes
+4/13/2025,Lyndsie,596,Business Development,Operator,Female,Regrant,1.2,5,2,1.5,5.1,1,0,1.2,5.1,0.1,4,2.2,yes
+3/31/2025,Leah,0278,Human Resources,Pharmacist,Female,Sonair,12.0,2,5,3.4,1.7,4,2,0.8,13.9,2.6,20,3.3,yes
+2/10/2025,Karl,5,Accounting,Programmer Analyst III,Agender,Cardify,16.1,1,5,1.5,1.5,10,0,0.7,4.8,2.0,5,2.9,no
+5/5/2025,Irita,1,Support,Nurse,Female,Job,17.3,4,3,2.1,6.5,8,4,0.6,8.2,0.2,0,4.5,no
+10/5/2024,Penelopa,616,Sales,Teacher,Female,Namfix,15.7,3,4,1.0,6.1,7,2,1.6,4.6,3.2,12,1.7,yes
+8/20/2024,Patrizia,13259,Sales,Nurse Practicioner,Female,Voyatouch,26.7,5,3,2.1,6.3,10,0,1.6,1.1,4.9,10,5.0,no
+1/10/2025,Waldon,29595,Training,Occupational Therapist,Male,Y-Solowarm,0.6,2,4,7.4,4.9,9,3,0.6,1.4,3.8,2,3.1,no
+4/14/2025,Elvyn,87,Legal,Data Coordinator,Male,Matsoft,18.0,3,3,6.6,5.4,9,2,2.0,0.8,0.9,19,4.6,yes
+8/4/2024,Becka,4,Engineering,Sales Associate,Genderfluid,Transcof,5.1,2,3,1.0,6.4,6,5,0.8,3.2,4.0,9,2.9,no
+11/21/2024,Mar,4,Marketing,Help Desk Technician,Male,Greenlam,3.9,5,4,6.1,6.3,4,3,1.4,5.7,2.7,3,3.6,no
+6/7/2024,Bil,30451,Support,Speech Pathologist,Male,Namfix,8.7,5,4,4.1,4.6,7,0,1.0,7.5,4.2,19,2.6,no
+3/31/2025,Alexei,070,Legal,Business Systems Development Analyst,Male,Tin,27.8,2,1,6.9,2.9,1,4,0.7,6.9,1.7,15,4.7,no
+3/5/2025,Tait,791,Product Management,Engineer III,Male,Opela,13.8,4,5,4.9,3.6,0,1,1.8,9.2,1.8,7,3.2,yes
+5/24/2025,Blondy,4060,Product Management,Environmental Tech,Female,Regrant,0.7,4,5,1.3,4.7,0,4,1.7,11.7,0.8,2,3.2,no
+4/20/2025,Boigie,58967,Human Resources,Assistant Professor,Male,Redhold,28.2,5,5,2.3,0.4,5,3,0.9,10.1,2.3,16,4.3,yes
+12/1/2024,Caren,4,Research and Development,Speech Pathologist,Female,Ronstring,1.1,1,1,3.2,5.2,10,5,1.7,8.9,3.5,11,1.9,yes
+12/16/2024,Kelsy,523,Research and Development,Operator,Female,It,19.6,5,2,0.8,0.6,3,5,1.7,4.2,1.6,8,1.6,no
+2/4/2025,Jennifer,1741,Training,Senior Developer,Female,Trippledex,20.6,4,2,0.7,3.9,2,1,1.2,10.8,1.5,19,3.4,yes
+6/5/2024,Phip,123,Engineering,Civil Engineer,Male,Lotlux,7.2,2,1,7.5,6.4,7,3,1.6,7.5,0.3,1,1.2,yes
+9/21/2024,Garrick,62,Sales,Research Assistant III,Male,Transcof,25.5,5,5,0.9,5.5,4,4,0.8,10.8,2.5,1,2.5,yes
+5/1/2025,Justin,1,Services,Safety Technician IV,Male,Transcof,27.5,5,2,2.4,6.4,1,0,0.8,4.0,1.1,20,1.1,yes
+12/7/2024,Denney,7756,Training,Research Associate,Male,Alpha,18.5,4,3,3.6,0.8,5,5,1.3,14.6,4.7,16,2.4,yes
+4/16/2025,Rochelle,93615,Accounting,Nurse Practicioner,Female,Treeflex,8.3,3,3,5.3,1.7,7,3,0.6,4.9,1.0,8,4.8,yes
+9/29/2024,Justus,9607,Engineering,Sales Associate,Male,Keylex,28.3,3,4,6.6,5.6,4,5,1.2,8.8,0.2,2,1.6,no
+11/12/2024,Gussy,16,Legal,Editor,Female,Lotlux,13.2,5,4,5.7,0.3,1,4,0.9,14.7,4.8,18,2.2,no
+10/28/2024,Cortie,16900,Accounting,Cost Accountant,Male,Greenlam,26.7,4,5,1.3,4.7,5,2,0.8,2.9,3.4,10,1.3,yes
+8/21/2024,Tiff,20216,Product Management,Chemical Engineer,Female,Lotlux,29.9,4,3,0.8,0.7,4,3,1.0,2.3,1.4,1,4.1,yes
+9/3/2024,Modestia,38310,Accounting,Actuary,Bigender,Wrapsafe,3.3,1,4,3.7,6.6,1,4,1.4,11.3,4.2,20,3.4,no
+2/6/2025,Althea,3,Training,Registered Nurse,Female,Mat Lam Tam,29.4,3,5,7.6,2.1,9,0,1.8,4.4,4.0,20,2.0,no
+12/24/2024,Billy,03682,Support,Recruiter,Male,Temp,19.1,1,4,4.5,0.3,8,0,1.0,3.7,0.6,7,2.5,yes
+7/4/2024,Olenolin,600,Human Resources,General Manager,Male,Quo Lux,3.7,3,5,1.9,3.0,0,3,1.4,11.6,4.4,16,3.8,yes
+4/17/2025,Theressa,239,Legal,Analyst Programmer,Female,Daltfresh,4.3,5,5,3.8,2.2,4,5,0.5,8.8,2.4,9,2.2,yes
+6/28/2024,Loria,9,Product Management,Account Executive,Female,Transcof,1.5,5,1,4.7,0.2,6,4,0.6,2.3,3.3,0,1.7,yes
+10/16/2024,Mickie,0751,Business Development,Data Coordinator,Male,Domainer,0.7,5,2,2.1,7.7,6,3,0.6,14.9,0.3,16,2.0,yes
+6/22/2024,Cammy,44113,Research and Development,Director of Sales,Female,Bitwolf,22.8,5,3,5.9,3.9,6,0,0.6,6.5,4.1,5,2.4,yes
+1/8/2025,Lemmie,12,Research and Development,Sales Associate,Male,Zathin,16.9,2,3,6.4,2.9,8,1,1.1,8.1,1.0,0,2.1,no
+2/5/2025,Patsy,48,Accounting,Web Developer I,Male,Kanlam,19.7,1,1,1.6,4.8,8,5,1.8,4.7,3.5,4,5.0,no
+11/2/2024,Aurel,97,Support,Sales Associate,Female,Duobam,11.0,3,1,4.2,5.5,6,5,0.9,9.9,3.5,7,2.4,no
+11/11/2024,Filippa,805,Engineering,Desktop Support Technician,Female,Sub-Ex,17.5,4,4,6.3,0.4,3,2,1.9,3.2,1.8,5,4.5,yes
+6/20/2024,Malcolm,21,Research and Development,Internal Auditor,Male,Prodder,13.7,2,3,3.5,0.1,6,5,1.5,1.3,0.5,11,1.8,yes
+2/10/2025,Kevon,2569,Legal,Database Administrator II,Polygender,Lotstring,3.3,2,4,6.3,6.4,7,2,1.2,2.9,1.0,3,1.9,no
+8/26/2024,Frieda,15549,Services,Technical Writer,Agender,Redhold,20.5,3,5,4.2,7.1,3,1,0.7,15.0,4.9,12,3.6,no
+8/24/2024,Zandra,611,Business Development,Business Systems Development Analyst,Female,Viva,5.9,3,5,2.8,4.1,2,3,1.0,6.2,2.5,15,3.1,yes
+5/29/2025,Micah,8842,Accounting,Assistant Media Planner,Male,Home Ing,21.1,1,1,1.8,2.0,9,3,0.5,8.2,1.6,18,4.0,yes
+8/23/2024,Rhianon,420,Engineering,Chemical Engineer,Female,Toughjoyfax,17.4,4,5,6.7,7.6,5,3,1.0,3.4,3.7,13,2.2,yes
+12/11/2024,Enos,7,Human Resources,VP Marketing,Male,Flowdesk,23.5,2,4,2.4,7.7,1,5,1.2,5.1,2.5,10,3.5,no
+6/8/2024,Alexandra,54,Engineering,Systems Administrator III,Female,Mat Lam Tam,13.1,1,5,7.7,3.5,3,1,1.5,9.4,3.3,12,1.9,no
+1/22/2025,Vidovik,986,Accounting,Information Systems Manager,Male,Sonair,10.4,4,2,6.1,4.9,4,3,2.0,0.2,4.7,2,3.8,yes
+6/14/2024,Bambie,31,Services,Senior Developer,Female,Flexidy,11.3,1,4,2.8,2.9,4,3,0.6,3.7,3.6,0,4.8,no
+8/17/2024,Sigvard,5544,Legal,Nurse,Male,Zontrax,26.5,2,5,4.4,3.8,1,5,0.9,5.0,1.6,5,3.8,no
+11/26/2024,Thom,079,Business Development,Computer Systems Analyst IV,Male,Y-find,5.0,1,1,5.1,7.3,4,3,1.5,8.0,1.2,3,1.7,no
+3/31/2025,Dorelia,89958,Engineering,Structural Engineer,Female,Prodder,7.2,2,1,1.7,1.6,4,4,1.0,0.7,1.0,1,1.1,no
+2/7/2025,Mychal,03,Services,Internal Auditor,Male,Holdlamis,0.9,5,4,1.5,1.9,5,4,0.9,12.7,3.8,4,4.9,yes
+9/28/2024,Kania,71,Support,Dental Hygienist,Female,Fintone,22.7,4,4,5.9,2.3,0,1,1.9,0.9,3.8,19,2.7,yes
+7/15/2024,Sherline,7894,Marketing,Recruiter,Female,Konklux,3.8,4,4,0.6,3.3,5,3,0.9,11.4,0.1,6,3.5,no
+5/24/2025,Tremayne,2856,Business Development,Web Developer IV,Male,Gembucket,24.3,3,5,4.6,6.6,3,2,0.9,13.2,4.5,8,3.0,yes
+4/8/2025,Jessica,532,Training,Community Outreach Specialist,Female,Aerified,6.5,3,2,7.1,2.0,2,5,1.5,2.2,4.0,0,3.1,no
+10/10/2024,Roma,5630,Services,Occupational Therapist,Male,Biodex,0.3,4,2,2.1,2.7,5,4,0.7,12.4,3.1,11,1.8,no
+7/12/2024,Nicholas,62654,Product Management,Registered Nurse,Male,Vagram,4.2,1,3,0.7,2.0,4,3,0.9,3.8,0.3,14,1.0,no
+8/29/2024,Sibyl,6573,Training,Software Engineer II,Male,Lotstring,12.0,4,2,6.3,7.4,3,1,0.9,1.5,2.8,0,2.9,yes
+8/10/2024,Gareth,5,Product Management,Financial Advisor,Male,Bamity,10.2,3,1,5.5,4.6,0,0,1.4,6.8,2.5,2,3.7,yes
+2/1/2025,Carola,6,Support,Research Assistant IV,Female,Biodex,13.5,4,4,5.4,0.7,7,1,1.6,2.2,4.2,0,1.9,yes
+5/8/2025,Faustine,7,Sales,Director of Sales,Female,Sonsing,29.3,5,4,4.4,3.2,8,0,1.0,1.3,4.1,4,2.3,yes
+1/22/2025,Ashbey,778,Legal,Social Worker,Male,Lotlux,27.7,4,4,7.2,0.3,0,4,1.9,4.5,4.6,4,4.6,yes
+4/13/2025,Rafaellle,1,Product Management,Assistant Manager,Male,Andalax,14.2,1,4,2.6,3.9,0,4,0.6,12.9,0.3,16,1.1,yes
+6/6/2024,Faunie,170,Sales,Senior Cost Accountant,Female,Keylex,6.0,3,4,4.9,0.7,8,1,0.8,13.3,4.8,3,4.0,no
+10/11/2024,Faustine,2788,Training,Software Consultant,Female,Kanlam,29.4,2,1,5.8,0.9,1,2,1.5,2.8,1.3,18,2.0,yes
+8/8/2024,Sherilyn,07,Legal,Legal Assistant,Female,Lotstring,8.9,1,5,6.2,2.9,5,1,1.5,7.3,0.5,16,2.4,yes
+5/13/2025,Josh,1,Sales,Human Resources Manager,Male,Viva,8.3,3,4,3.4,4.6,3,4,0.8,9.7,3.5,20,3.7,no
+8/16/2024,Marcos,3318,Accounting,Research Nurse,Male,Bytecard,10.5,4,1,4.4,4.6,7,1,1.1,6.0,3.4,4,1.6,yes
+11/29/2024,Erin,6,Sales,Financial Advisor,Male,Transcof,19.5,5,2,4.1,1.2,8,1,1.3,6.7,0.5,12,3.4,no
+4/11/2025,Natala,38,Training,Chief Design Engineer,Female,Stringtough,15.1,2,3,4.3,0.1,0,2,1.9,6.7,1.9,19,3.4,yes
+6/13/2024,Harbert,1,Product Management,Community Outreach Specialist,Male,Fixflex,0.5,4,3,3.6,0.9,9,3,1.3,1.0,2.5,8,1.0,no
+12/8/2024,Willard,83,Business Development,Food Chemist,Male,It,14.7,3,4,6.4,1.2,6,5,1.3,10.1,4.2,13,1.4,no
+1/22/2025,Nelle,254,Services,Research Assistant III,Female,Aerified,25.4,5,3,6.0,2.1,4,4,1.1,10.4,3.8,9,3.4,yes
+5/22/2025,Hamil,8,Legal,Senior Cost Accountant,Male,Zoolab,21.6,4,2,1.7,6.9,9,3,0.7,2.7,3.0,17,1.8,no
+6/5/2024,Brenna,31463,Sales,Associate Professor,Female,Voltsillam,7.6,2,2,4.2,2.3,2,2,0.7,11.8,2.0,7,1.3,yes
+2/6/2025,Christel,023,Product Management,Senior Sales Associate,Female,Temp,7.7,4,2,4.0,5.0,10,5,0.6,8.0,0.4,18,2.4,yes
+6/20/2024,Adi,8,Business Development,VP Quality Control,Non-binary,Lotlux,2.2,2,4,1.2,6.7,4,3,0.9,6.4,4.2,9,2.4,no
+1/23/2025,Adi,3,Engineering,Junior Executive,Female,Asoka,2.0,5,2,4.1,2.6,3,1,2.0,13.8,0.8,15,1.5,no
+7/5/2024,Keane,12,Support,Research Associate,Male,Tin,24.5,4,3,2.7,3.2,9,1,0.8,1.0,0.6,3,1.0,no
+4/23/2025,Cosette,054,Training,Senior Sales Associate,Female,Opela,15.7,2,5,2.8,7.4,1,5,1.6,9.5,2.2,16,1.8,no
+3/8/2025,Roderich,2543,Research and Development,Human Resources Manager,Male,Fix San,20.6,3,2,5.1,3.8,10,2,1.8,1.0,3.1,0,2.3,yes
+9/8/2024,Binni,56809,Product Management,Quality Control Specialist,Female,Y-find,6.3,1,4,3.3,4.6,3,5,0.8,1.6,1.7,19,3.6,no
+1/10/2025,Gratia,511,Human Resources,Tax Accountant,Female,Wrapsafe,17.6,1,5,3.3,6.0,4,3,1.2,9.7,0.5,19,1.0,no
+6/11/2024,Bel,66,Support,Analog Circuit Design manager,Female,Span,16.5,5,4,3.9,2.8,7,4,1.0,9.2,0.8,7,1.9,yes
+1/29/2025,Tobie,4114,Sales,Software Engineer I,Male,Duobam,29.0,1,2,3.0,7.5,1,3,1.5,12.7,0.3,14,3.5,yes
+8/13/2024,Jolee,36,Legal,Budget/Accounting Analyst III,Female,Bigtax,25.3,3,5,1.8,1.8,10,5,2.0,9.0,2.2,6,3.5,yes
+3/25/2025,Ramona,81500,Sales,Recruiting Manager,Female,Duobam,1.1,3,5,3.1,3.0,1,5,1.5,13.0,2.3,15,4.4,no
+9/3/2024,Raffaello,2160,Business Development,Assistant Media Planner,Male,Fix San,17.8,4,3,7.1,3.1,8,1,0.7,0.2,2.2,9,3.5,yes
+10/18/2024,Gabbey,3,Support,Quality Engineer,Female,Tres-Zap,24.5,5,3,5.9,0.7,0,3,1.9,13.9,0.6,14,4.8,yes
+11/2/2024,Jules,7,Business Development,Pharmacist,Polygender,Redhold,11.2,5,2,6.1,5.7,9,3,0.7,12.0,4.0,14,3.7,no
+3/29/2025,Archibald,52,Legal,Physical Therapy Assistant,Male,It,3.3,5,2,3.8,1.2,0,3,0.8,2.5,0.9,5,1.7,yes
+9/26/2024,Dorelia,6,Support,Recruiter,Female,Bitwolf,5.2,5,3,5.8,2.9,5,1,1.6,3.9,2.1,17,2.3,no
+3/6/2025,Fidelia,955,Business Development,Nurse,Female,Keylex,6.0,3,1,3.4,2.7,4,3,0.9,2.6,1.5,7,3.7,no
+5/24/2025,Grethel,26,Services,Compensation Analyst,Female,Tres-Zap,27.7,4,4,6.7,1.7,5,3,1.9,10.4,2.4,18,3.4,yes
+1/16/2025,Laney,6,Training,Technical Writer,Male,Sub-Ex,22.3,1,1,7.7,7.4,5,1,1.4,0.1,4.0,14,4.8,no
+10/13/2024,Sylvan,5,Product Management,Nuclear Power Engineer,Male,Cardguard,9.3,4,4,6.8,0.5,10,5,1.3,6.2,1.4,1,3.5,yes
+5/8/2025,Bibby,19,Engineering,Software Test Engineer III,Female,Lotlux,29.2,3,3,7.3,3.9,7,3,1.7,1.5,3.2,13,2.4,no
+3/2/2025,Ellswerth,0864,Support,Research Assistant I,Polygender,Andalax,7.9,4,3,1.6,1.0,9,5,0.9,2.8,4.8,16,1.2,no
+11/5/2024,Emelita,70,Marketing,Human Resources Assistant I,Female,Sub-Ex,15.6,5,5,5.7,6.7,10,3,0.5,6.5,3.1,6,3.9,yes
+4/11/2025,Edik,25,Research and Development,Dental Hygienist,Male,Home Ing,25.8,2,2,3.8,7.7,4,5,1.0,11.2,4.8,14,4.7,no
+11/28/2024,Colet,7,Support,Structural Analysis Engineer,Male,Stronghold,22.3,1,5,1.3,1.7,4,4,1.9,12.0,0.3,6,4.3,yes
+4/27/2025,Sargent,1331,Engineering,Associate Professor,Male,Fintone,27.2,2,4,6.2,4.1,1,5,1.4,9.4,1.7,2,4.4,no
+4/30/2025,Jameson,13,Research and Development,Developer IV,Male,It,8.8,2,2,2.4,0.3,7,5,0.5,13.8,5.0,11,3.4,no
+2/12/2025,Benedetta,49066,Services,Research Nurse,Female,Stringtough,14.8,5,4,4.6,7.5,0,5,1.8,9.2,0.1,19,3.3,no
+3/27/2025,Shirleen,0,Research and Development,Computer Systems Analyst I,Female,Bitchip,21.9,5,1,5.5,5.4,4,1,1.2,2.0,1.1,17,1.6,yes
+9/14/2024,Derrik,11124,Engineering,Software Engineer IV,Male,Zamit,4.2,1,1,7.9,6.8,9,1,1.3,12.9,4.5,15,1.3,yes
+9/29/2024,Hamnet,44,Services,Systems Administrator IV,Male,Hatity,25.6,5,4,6.2,7.6,4,4,1.1,5.2,4.1,19,1.8,no
+6/12/2024,Aron,6,Training,Project Manager,Male,Otcom,28.0,4,5,3.7,0.1,8,4,1.0,13.2,3.4,2,1.3,no
+10/21/2024,Roland,89,Services,Programmer IV,Genderqueer,Fixflex,12.0,2,5,0.7,4.2,2,4,1.4,9.2,2.5,12,3.1,yes
+9/21/2024,Zarla,729,Accounting,VP Quality Control,Female,Alpha,7.5,4,2,7.0,5.3,7,4,0.7,2.7,4.9,1,1.3,no
+1/16/2025,Wilbur,50,Services,Pharmacist,Male,Transcof,12.8,2,4,1.1,3.4,7,5,1.4,4.4,4.9,16,2.1,no
+10/11/2024,Broderic,87896,Support,Analog Circuit Design manager,Male,Gembucket,23.6,5,4,6.4,6.3,6,1,0.9,9.3,4.2,2,2.1,yes
+7/1/2024,Oswell,465,Engineering,Quality Control Specialist,Male,Stim,3.1,3,4,7.0,0.4,8,1,0.7,10.5,1.4,12,3.1,yes
+3/11/2025,Ainsley,1742,Research and Development,Mechanical Systems Engineer,Female,Fixflex,7.6,5,4,5.8,2.1,5,5,0.8,6.7,1.2,1,4.6,no
+4/10/2025,Bettye,9,Services,Tax Accountant,Female,Tres-Zap,28.5,3,5,4.3,5.5,6,3,0.6,1.2,2.8,14,1.5,yes
+12/21/2024,Emlyn,575,Engineering,Quality Engineer,Male,Cardify,8.9,2,5,6.5,3.1,0,4,0.7,9.8,1.8,7,3.0,yes
+12/24/2024,Bruce,27,Sales,Database Administrator IV,Male,Cardify,7.2,5,5,3.5,7.8,7,5,1.8,1.2,0.6,17,4.8,no
+4/10/2025,Jake,4540,Human Resources,Cost Accountant,Male,Tempsoft,15.3,2,2,6.9,1.7,1,5,0.5,12.0,3.3,16,3.7,no
+5/7/2025,Alphonse,244,Engineering,Computer Systems Analyst II,Non-binary,Overhold,19.7,3,3,0.8,3.6,3,2,1.7,9.1,1.8,8,3.4,yes
+4/18/2025,Rafael,478,Support,Help Desk Technician,Agender,Lotlux,16.8,3,4,1.6,3.5,5,3,0.9,13.3,3.3,17,1.5,no
+6/7/2024,Elizabeth,96532,Marketing,Paralegal,Female,Andalax,6.3,1,5,1.3,2.7,0,4,0.8,11.7,2.2,8,4.6,yes
+10/22/2024,Nicoli,86720,Support,General Manager,Female,Holdlamis,9.0,5,3,5.3,6.7,7,1,2.0,6.8,1.8,10,2.5,no
+10/31/2024,Ronica,431,Engineering,Community Outreach Specialist,Female,Biodex,26.0,4,2,6.9,2.2,4,0,1.0,12.9,2.6,15,3.1,yes
+6/17/2024,Ashlan,9,Sales,Research Assistant II,Female,Voyatouch,10.3,5,4,4.2,0.7,10,4,1.4,9.1,3.7,1,3.4,yes
+11/4/2024,Kaleb,6,Training,General Manager,Male,Matsoft,26.3,1,3,3.0,5.2,4,1,0.8,6.8,1.8,18,1.2,yes
+7/30/2024,Guinna,5056,Accounting,Quality Control Specialist,Female,Sub-Ex,15.8,1,3,4.7,5.2,6,3,1.1,11.0,1.8,8,3.5,yes
+11/18/2024,Zackariah,1941,Services,Physical Therapy Assistant,Male,Bitchip,8.0,5,3,3.1,3.6,5,5,0.9,11.0,3.8,14,4.3,no
+5/8/2025,Bogart,55,Support,Senior Cost Accountant,Male,Voltsillam,16.8,4,1,0.6,0.6,6,0,2.0,13.8,0.2,3,1.3,no
+12/12/2024,Gianni,87,Marketing,Assistant Media Planner,Male,Tampflex,21.8,2,3,1.0,0.1,7,1,1.3,13.7,2.3,8,3.9,yes
+9/15/2024,Linnet,7409,Human Resources,Social Worker,Female,Sonair,4.8,2,2,0.8,5.6,3,0,1.2,13.0,4.9,19,3.6,yes
+8/14/2024,Lacey,665,Services,Analog Circuit Design manager,Bigender,Prodder,7.0,4,2,0.6,7.2,2,1,1.1,0.6,0.7,15,1.4,yes
+1/30/2025,Rollo,092,Sales,Health Coach III,Male,Zontrax,4.8,3,2,6.6,3.3,8,2,2.0,7.8,3.2,10,2.1,yes
+8/29/2024,Pepito,43,Marketing,Analog Circuit Design manager,Male,Andalax,23.6,4,4,4.6,4.5,10,1,1.4,0.4,0.8,18,2.9,no
+6/20/2024,Gallard,4369,Research and Development,Dental Hygienist,Male,Tampflex,10.7,5,3,7.2,7.9,1,0,2.0,6.6,3.0,17,3.9,no
+11/24/2024,Hilliard,922,Marketing,Research Assistant III,Male,Wrapsafe,20.4,2,1,3.4,7.3,2,1,0.9,7.3,1.1,3,4.6,no
+12/15/2024,Jana,04645,Legal,Recruiter,Female,Greenlam,0.1,4,2,0.5,4.0,9,1,1.2,13.1,0.8,14,2.6,yes
+4/29/2025,Jecho,972,Business Development,Junior Executive,Male,Fintone,20.7,2,1,6.0,6.9,7,0,1.0,10.2,0.5,8,3.2,no
+9/10/2024,Lowell,8,Human Resources,Clinical Specialist,Non-binary,Lotlux,20.9,4,2,1.3,6.8,2,2,1.6,9.1,3.8,20,1.8,yes
+5/20/2025,Desmond,56,Services,Assistant Professor,Male,Greenlam,1.8,3,4,3.5,7.4,6,0,0.9,4.9,2.0,20,3.6,no
+7/11/2024,Hilarius,603,Human Resources,Speech Pathologist,Male,Veribet,12.3,2,3,6.2,0.9,2,1,0.9,2.5,0.2,1,3.2,yes
+11/11/2024,Norrie,57,Business Development,Automation Specialist I,Male,Zaam-Dox,22.1,4,3,7.8,3.3,4,4,1.6,5.0,0.5,17,4.4,yes
+9/23/2024,Rahel,944,Sales,Paralegal,Female,Zamit,21.6,4,3,1.9,0.4,0,4,0.7,2.7,4.1,12,4.9,no
+5/24/2025,Hendrick,50823,Support,Senior Quality Engineer,Male,Cardify,7.9,4,5,0.7,4.1,3,5,1.1,4.7,4.8,15,4.1,yes
+8/3/2024,Melody,609,Research and Development,Financial Analyst,Female,Ventosanzap,27.4,1,5,5.3,2.2,10,5,1.5,3.8,2.6,9,4.5,no
+2/26/2025,Moyra,74472,Support,Senior Developer,Female,Bamity,26.4,1,4,6.5,3.9,9,4,1.4,5.8,2.9,4,4.8,no
+8/2/2024,Cherye,94,Human Resources,Software Test Engineer III,Female,Regrant,23.5,2,4,3.9,7.6,9,0,1.2,3.4,2.3,16,5.0,yes
+8/18/2024,Fenelia,2769,Engineering,Geological Engineer,Female,Ventosanzap,10.4,4,5,0.7,3.4,2,3,1.4,13.0,1.1,12,2.9,yes
+3/7/2025,Marylee,97,Sales,Human Resources Manager,Female,Daltfresh,13.9,2,1,7.9,1.0,9,0,1.5,5.6,1.9,18,3.4,yes
+11/30/2024,Conway,08,Accounting,Quality Engineer,Male,Tempsoft,4.0,1,4,4.0,4.6,10,2,0.8,0.6,2.3,10,3.6,no
+7/5/2024,Orelia,4,Research and Development,Dental Hygienist,Female,Job,20.7,4,1,1.5,6.6,0,2,1.9,2.4,4.9,1,3.7,yes
+8/26/2024,Pancho,32,Legal,Staff Accountant IV,Male,Mat Lam Tam,15.4,3,1,3.8,5.2,9,5,0.7,6.8,2.3,2,2.1,yes
+8/7/2024,Therine,3,Sales,Developer I,Female,Stringtough,2.2,4,5,4.8,1.1,2,5,0.9,8.1,4.3,19,4.6,no
+1/22/2025,Luigi,84704,Services,Statistician II,Male,Stringtough,21.9,5,5,1.3,6.6,1,5,0.9,7.4,4.9,2,1.5,yes
+11/1/2024,Fanny,09,Research and Development,VP Product Management,Female,Veribet,29.3,4,5,4.6,6.3,8,0,0.7,10.0,4.4,0,1.6,no
+9/3/2024,Lammond,0,Business Development,Administrative Assistant II,Male,Hatity,28.1,4,4,3.1,0.3,4,4,0.6,6.7,0.2,10,2.2,yes
+7/3/2024,Raeann,437,Accounting,Analog Circuit Design manager,Genderqueer,Voyatouch,18.7,2,2,7.2,0.9,2,0,1.7,3.6,3.4,19,4.8,yes
+9/25/2024,Scot,55,Marketing,Automation Specialist I,Male,Bigtax,2.2,3,1,1.5,3.8,7,5,0.7,4.8,3.8,20,1.9,no
+5/10/2025,Norina,30,Accounting,Cost Accountant,Female,Job,12.3,4,3,6.1,1.8,10,0,1.9,5.7,1.2,17,2.0,yes
+6/8/2024,Mile,05,Training,Financial Advisor,Male,Bytecard,19.1,2,5,3.6,1.5,7,4,1.4,8.9,1.3,7,1.2,yes
+2/18/2025,Farrell,21,Legal,Quality Engineer,Male,Tampflex,20.0,5,1,1.9,1.6,5,2,1.0,7.4,4.6,12,1.9,yes
+4/9/2025,Ches,3158,Support,Chemical Engineer,Male,Aerified,21.9,5,5,6.1,5.5,8,5,1.1,1.8,2.0,20,3.7,yes
+5/16/2025,Ilene,5547,Engineering,Graphic Designer,Female,Hatity,7.2,1,3,7.0,1.3,6,3,1.5,2.6,2.8,1,5.0,yes
+10/29/2024,Legra,01055,Marketing,Speech Pathologist,Female,Zathin,9.9,1,3,4.0,4.8,0,2,1.7,14.1,4.4,11,1.7,no
+2/14/2025,Glenden,8,Accounting,Chemical Engineer,Male,Wrapsafe,16.3,2,2,3.2,7.0,5,0,1.0,6.0,0.8,3,1.6,yes
+10/12/2024,Willy,44145,Accounting,Human Resources Assistant II,Male,Tempsoft,8.4,5,1,1.5,1.7,4,2,1.5,11.6,3.6,18,4.1,no
+1/20/2025,Wrennie,0006,Services,Chief Design Engineer,Female,Prodder,13.9,3,3,4.8,0.7,4,0,0.6,14.6,1.0,20,3.4,yes
+3/16/2025,Tuck,3,Legal,Statistician III,Male,Domainer,25.9,3,5,0.9,0.8,10,0,1.7,7.7,0.1,18,4.0,no
+6/20/2024,Carmine,10779,Product Management,Human Resources Assistant II,Male,Fixflex,11.7,4,1,6.0,4.8,5,5,1.0,7.0,1.5,9,2.1,yes
+7/17/2024,Dewey,895,Human Resources,Web Developer IV,Male,Tin,8.5,1,3,7.2,6.0,2,4,1.9,14.6,3.5,15,3.2,yes
+9/8/2024,Anastasie,9493,Marketing,Librarian,Female,Duobam,16.6,5,5,4.1,1.5,7,0,0.5,8.6,4.6,19,2.6,no
+1/20/2025,Polly,95871,Legal,Geologist I,Female,Ventosanzap,0.3,1,3,0.8,3.6,6,4,0.6,9.9,3.4,12,3.5,no
+8/11/2024,Claudette,5632,Accounting,Human Resources Assistant III,Female,Stringtough,2.3,3,5,0.7,1.9,2,2,0.5,4.6,0.9,7,2.0,yes
+1/4/2025,Jolee,56,Support,Business Systems Development Analyst,Female,Prodder,24.2,2,4,1.7,7.7,2,5,1.3,8.6,0.8,20,4.0,no
+11/10/2024,Karita,9808,Product Management,Software Test Engineer II,Female,Opela,13.7,3,1,7.6,0.7,8,0,1.7,1.1,0.6,14,1.9,no
+12/8/2024,Ursulina,7640,Product Management,VP Quality Control,Female,Treeflex,10.5,3,2,4.3,1.3,4,3,0.9,3.0,3.7,1,3.3,no
+8/23/2024,Claiborne,62,Sales,Quality Control Specialist,Male,Latlux,19.5,2,3,6.0,5.6,9,3,0.9,2.1,0.2,20,1.1,yes
+10/6/2024,Ailis,1,Product Management,Recruiting Manager,Female,Subin,7.7,4,3,3.7,4.1,5,5,1.9,4.3,4.5,5,3.5,no
+5/9/2025,Shelia,19830,Research and Development,Accountant III,Female,Mat Lam Tam,27.3,2,2,7.0,6.9,3,4,1.3,6.8,4.7,18,1.4,no
+3/28/2025,Tremayne,700,Business Development,Registered Nurse,Male,Mat Lam Tam,10.4,5,5,7.2,6.2,9,0,0.9,2.9,3.5,12,3.5,no
+9/17/2024,Stephanie,7603,Support,Junior Executive,Female,Opela,21.3,1,2,7.9,2.3,10,0,0.9,1.2,4.9,11,2.7,yes
+1/19/2025,Elfrieda,60,Marketing,Food Chemist,Female,Latlux,22.1,3,4,3.1,7.9,10,0,0.7,12.4,0.8,7,3.0,yes
+2/13/2025,Terrence,79135,Product Management,Statistician II,Genderqueer,Fixflex,10.1,1,3,4.6,7.5,9,1,0.7,11.7,1.6,17,4.8,no
+6/7/2024,Duffie,32,Engineering,Quality Control Specialist,Male,Tampflex,29.0,5,4,0.8,6.4,3,0,1.2,6.6,4.4,15,2.4,yes
+8/15/2024,Bonny,67736,Human Resources,Nurse,Female,Alpha,11.6,5,3,1.1,7.4,10,1,1.4,7.5,4.9,20,4.7,no
+2/22/2025,Kipp,95357,Sales,Design Engineer,Female,Regrant,18.3,2,2,2.9,1.1,8,4,1.5,6.8,5.0,20,4.1,yes
+1/3/2025,Keith,84,Marketing,Business Systems Development Analyst,Male,Subin,8.6,2,4,6.6,3.9,9,5,0.7,13.6,3.9,2,4.0,yes
+7/15/2024,Brian,0692,Legal,Assistant Professor,Male,Wrapsafe,17.3,5,3,3.3,2.9,0,2,0.9,10.4,4.1,14,3.2,no
+6/1/2025,Sharyl,3,Accounting,Cost Accountant,Female,Domainer,7.3,5,3,7.1,1.8,5,0,1.2,2.3,2.2,11,4.9,yes
+3/23/2025,Conway,2831,Research and Development,Structural Analysis Engineer,Male,Regrant,21.1,1,5,4.1,5.0,7,2,0.8,13.1,4.2,18,1.9,yes
+10/11/2024,Madelin,652,Product Management,Tax Accountant,Female,Sonair,20.2,2,3,6.4,6.7,5,0,1.5,11.5,3.3,6,3.4,no
+2/3/2025,Elberta,08161,Accounting,Administrative Assistant I,Female,Redhold,13.6,3,2,2.9,0.2,2,3,1.5,12.3,4.8,2,3.5,no
+8/20/2024,Hali,275,Support,VP Marketing,Female,Alpha,7.7,3,4,7.1,7.6,3,3,1.5,3.8,1.2,15,3.4,yes
+5/15/2025,Nathan,2627,Sales,VP Quality Control,Male,Quo Lux,11.3,4,1,3.4,3.8,5,3,0.8,9.1,0.3,8,3.5,no
+10/28/2024,Cinda,8,Engineering,Graphic Designer,Agender,Tres-Zap,8.9,1,4,1.5,6.6,9,1,0.6,6.0,2.4,19,1.1,no
+12/25/2024,Jesus,53,Sales,Associate Professor,Male,Span,16.7,1,4,1.3,2.5,0,4,0.6,13.9,1.1,3,4.2,no
+1/10/2025,Husein,7883,Services,Internal Auditor,Male,Tresom,5.7,3,5,1.2,2.1,4,2,1.7,4.7,0.5,20,2.3,yes
+11/22/2024,Lazarus,99,Research and Development,Budget/Accounting Analyst II,Male,Namfix,22.0,4,5,5.9,5.4,5,2,1.4,10.1,3.3,3,2.7,yes
+3/4/2025,Esme,9025,Legal,Physical Therapy Assistant,Male,Kanlam,22.0,3,4,3.4,4.1,3,0,0.9,13.8,0.2,15,3.3,no
+4/4/2025,Ruben,31213,Training,Assistant Manager,Male,Zoolab,23.1,2,2,3.0,0.4,2,0,1.2,10.5,3.1,17,4.9,yes
+2/13/2025,Welsh,9,Accounting,Nurse,Male,Bitchip,0.7,3,5,7.8,6.7,5,1,1.5,11.7,1.0,17,1.6,no
+9/6/2024,Hercules,04,Product Management,Pharmacist,Male,Flexidy,3.3,4,3,2.5,7.9,0,2,0.6,10.7,1.1,11,5.0,no
+3/7/2025,Dorthea,0,Services,Executive Secretary,Female,Bytecard,19.9,2,1,2.0,4.0,3,0,1.0,1.2,2.4,0,5.0,no
+6/13/2024,Perceval,3540,Business Development,Account Executive,Male,Sonair,2.2,2,4,1.1,5.9,0,5,0.5,13.9,3.2,19,3.9,yes
+9/19/2024,Barny,854,Support,General Manager,Male,Lotstring,16.1,4,3,1.8,1.6,10,3,1.1,8.7,4.5,3,3.5,yes
+12/25/2024,Ruthy,789,Marketing,Biostatistician II,Female,Tempsoft,10.9,2,5,2.0,6.3,0,4,1.5,0.6,2.4,18,4.6,no
+3/27/2025,Sybyl,446,Training,Biostatistician IV,Female,Matsoft,3.4,2,1,5.5,1.6,4,4,1.3,12.4,4.5,18,4.6,yes
+4/16/2025,Obie,8303,Product Management,Software Consultant,Male,Lotlux,27.6,3,1,1.9,1.9,6,5,1.5,5.5,1.1,20,2.9,no
+3/15/2025,Carol-jean,6,Legal,Registered Nurse,Female,Kanlam,14.8,4,1,4.1,2.1,1,0,0.9,3.1,1.6,11,1.6,yes
+11/15/2024,Lacie,0,Marketing,Food Chemist,Female,Kanlam,10.1,1,2,5.6,5.3,6,2,1.3,0.1,2.9,1,2.9,yes
+3/13/2025,Chrysler,96,Human Resources,Geological Engineer,Female,Fintone,18.4,2,4,7.0,0.1,5,2,1.6,14.0,3.8,14,1.6,yes
+3/17/2025,Ellerey,9396,Marketing,Senior Quality Engineer,Male,Latlux,23.1,2,3,0.7,2.1,3,0,1.8,14.4,3.7,13,2.5,no
+11/2/2024,Marcel,80289,Training,Dental Hygienist,Male,Mat Lam Tam,7.2,4,1,6.7,2.9,0,4,0.6,9.1,4.7,7,5.0,yes
+6/6/2024,Perren,5,Legal,Director of Sales,Male,Kanlam,25.1,2,3,2.2,3.6,8,1,1.2,7.9,2.5,4,1.2,no
+12/17/2024,Gus,4567,Services,Pharmacist,Female,Sub-Ex,23.1,4,3,3.2,4.7,7,0,1.9,10.2,3.4,15,1.4,yes
+11/2/2024,Holly,25525,Accounting,Staff Accountant I,Male,Sonsing,16.4,4,1,7.9,0.2,3,3,1.5,8.0,1.0,0,3.0,no
+4/22/2025,Selene,9609,Engineering,Senior Quality Engineer,Female,Holdlamis,18.6,3,1,4.0,4.3,8,3,1.4,3.9,5.0,1,3.9,yes
+4/8/2025,Alfonse,3202,Product Management,Financial Advisor,Genderqueer,Y-find,5.3,3,4,4.6,2.6,8,1,1.6,4.5,4.7,8,2.3,yes
+5/4/2025,Estevan,8600,Engineering,Data Coordinator,Male,Andalax,14.7,1,2,5.6,5.4,5,3,0.6,2.5,2.2,9,4.3,no
+6/2/2025,Tera,30,Business Development,Assistant Professor,Female,Keylex,12.4,4,3,8.0,3.0,2,5,0.5,0.9,1.6,18,1.7,no
+3/14/2025,Deonne,01977,Product Management,Accountant I,Female,Tampflex,5.4,5,1,3.4,4.6,8,4,0.8,9.5,5.0,17,4.1,no
+5/10/2025,Debra,95403,Marketing,Physical Therapy Assistant,Female,Prodder,26.1,5,2,7.1,5.8,3,0,0.6,10.1,1.6,1,3.6,no
+10/20/2024,Cornelia,84219,Accounting,Junior Executive,Female,Tempsoft,25.0,2,5,0.8,6.0,7,2,0.5,4.3,4.1,3,2.5,no
+4/9/2025,Bobbe,135,Business Development,Research Nurse,Genderqueer,Stringtough,6.2,5,5,0.5,0.1,3,1,1.8,14.0,0.8,14,4.5,yes
+9/10/2024,Christoph,81,Product Management,VP Quality Control,Male,Cardify,23.2,5,1,3.3,3.4,5,3,1.1,11.5,4.4,13,3.2,no
+2/7/2025,Nels,72,Sales,Software Consultant,Male,Cookley,12.2,1,4,1.3,2.3,3,1,1.4,3.3,0.2,1,3.8,yes
+3/14/2025,Lynda,2920,Legal,Office Assistant III,Female,Opela,27.2,4,2,6.9,7.6,0,0,1.7,1.8,3.8,12,1.5,no
+11/9/2024,Paule,6463,Training,Safety Technician III,Non-binary,Greenlam,7.8,4,2,4.0,0.8,8,0,0.7,3.6,0.7,18,1.1,no
+6/23/2024,Griffy,62,Services,Software Engineer III,Male,Otcom,0.1,4,5,5.7,4.1,7,3,1.7,2.9,2.2,15,3.1,yes
+3/31/2025,Foster,9440,Product Management,Staff Accountant IV,Male,Alphazap,12.4,4,2,1.8,0.4,3,2,0.8,0.3,4.4,12,2.1,yes
+4/20/2025,Jephthah,920,Legal,Editor,Male,Zamit,11.6,3,2,5.7,6.6,3,4,1.8,9.3,0.6,5,1.3,no
+8/28/2024,Elliott,93,Accounting,Executive Secretary,Male,Tin,6.0,5,5,2.8,0.7,4,1,1.4,11.7,4.8,2,3.9,no
+12/17/2024,Glenden,5406,Marketing,Assistant Media Planner,Male,Lotstring,5.3,2,3,2.0,1.1,6,1,1.3,12.2,3.9,12,2.4,yes
+2/11/2025,Flore,3,Training,Help Desk Operator,Female,Biodex,27.0,2,5,3.0,6.1,8,1,0.5,4.7,4.6,0,3.8,no
+10/9/2024,Kiah,09249,Training,Sales Associate,Female,Y-Solowarm,21.6,2,2,4.0,0.4,7,5,1.5,10.3,1.6,17,4.1,no
+5/16/2025,Myer,26,Product Management,VP Accounting,Male,Viva,24.8,1,5,3.3,2.6,4,3,1.5,11.9,1.7,18,2.9,yes
+1/3/2025,Rana,6277,Business Development,General Manager,Female,Aerified,11.8,4,4,5.4,4.7,4,5,0.7,14.7,3.8,5,3.2,yes
+2/17/2025,Nicolas,5,Human Resources,Developer III,Male,Domainer,9.8,2,5,6.9,5.7,6,4,1.9,8.4,3.5,20,2.9,yes
+9/22/2024,Alasdair,5,Engineering,Information Systems Manager,Male,Solarbreeze,12.9,3,2,4.6,5.3,7,2,0.7,13.8,2.5,11,2.7,yes
+12/7/2024,Garrard,2771,Engineering,Tax Accountant,Male,Trippledex,0.2,5,4,1.0,6.1,2,0,2.0,10.0,0.8,4,4.1,no
+1/18/2025,Kakalina,2794,Legal,Assistant Manager,Female,Bytecard,21.5,4,2,1.9,2.9,1,5,1.8,12.2,0.6,16,3.4,yes
+6/29/2024,Langsdon,340,Support,Systems Administrator III,Agender,Matsoft,7.7,3,4,1.2,0.8,7,0,0.8,7.4,0.5,4,2.4,yes
+4/16/2025,Agna,5,Human Resources,Technical Writer,Female,Trippledex,18.1,3,4,0.9,5.2,5,3,1.9,7.2,4.7,19,1.2,yes
+3/6/2025,Drucill,84,Support,Senior Financial Analyst,Female,Daltfresh,9.2,3,2,6.3,0.2,2,4,1.1,4.5,2.2,13,2.6,yes
+10/25/2024,Dolf,44953,Services,Director of Sales,Male,Toughjoyfax,27.6,3,1,2.5,2.2,6,1,1.3,2.7,0.4,6,4.2,no
+3/4/2025,Sephira,2367,Sales,Graphic Designer,Female,Konklux,11.3,3,2,7.8,0.9,8,0,0.9,5.0,2.4,19,3.3,yes
+11/26/2024,Inessa,7607,Support,Information Systems Manager,Female,Sonair,0.8,1,5,2.0,7.9,4,3,0.9,8.4,2.3,7,1.6,yes
+8/8/2024,Oswald,00034,Human Resources,Environmental Tech,Male,Asoka,20.9,2,3,2.9,5.6,1,1,1.7,14.9,1.1,14,2.9,no
+8/29/2024,Guilbert,7393,Support,Dental Hygienist,Male,Subin,19.5,4,2,2.3,2.3,5,0,1.5,4.6,4.6,3,1.0,yes
+7/5/2024,Mina,69,Services,Chief Design Engineer,Female,Vagram,28.9,5,5,3.0,5.1,9,3,0.9,7.9,2.9,18,4.2,yes
+2/21/2025,Lory,62,Product Management,Accounting Assistant I,Female,Lotstring,16.7,1,4,4.3,1.1,8,4,1.0,4.9,0.7,1,2.5,yes
+5/13/2025,Carce,1214,Business Development,Tax Accountant,Male,It,11.7,2,4,3.1,2.6,9,0,1.2,3.2,2.6,20,1.6,yes
+8/5/2024,Vivyanne,18191,Marketing,Junior Executive,Female,Veribet,1.6,3,3,5.5,4.3,8,3,1.7,13.1,2.3,19,2.7,yes
+7/1/2024,Spike,80670,Services,Research Associate,Male,Sonsing,4.1,5,4,3.1,4.3,10,4,1.1,8.1,3.5,5,4.8,no
+1/25/2025,Gayla,9907,Marketing,Nurse Practicioner,Female,Fintone,11.2,4,1,6.3,3.1,4,0,1.2,13.7,2.9,6,1.0,yes
+4/4/2025,Blair,3115,Research and Development,Web Developer I,Male,Solarbreeze,18.3,1,5,7.7,7.2,0,2,0.7,4.4,2.5,15,2.1,yes
+11/30/2024,Jasmine,8,Engineering,Professor,Female,Rank,9.1,5,5,4.1,6.1,0,4,1.0,0.6,4.4,10,3.3,yes
+2/12/2025,Jedd,0397,Marketing,Staff Scientist,Male,Wrapsafe,3.7,3,5,3.1,2.6,3,4,0.6,4.1,4.1,7,4.0,yes
+10/24/2024,Yard,1,Legal,Information Systems Manager,Male,Vagram,26.6,1,5,3.8,0.5,0,4,0.5,7.1,0.2,5,4.9,no
+10/28/2024,Nolan,70602,Sales,Desktop Support Technician,Male,Treeflex,7.2,1,3,3.1,4.7,3,5,1.0,13.6,4.4,0,1.6,no
+5/15/2025,Stacee,9,Support,Marketing Assistant,Male,Keylex,29.2,2,3,7.0,7.1,4,5,2.0,8.8,2.1,11,2.3,yes
+8/9/2024,Arvie,43114,Accounting,VP Sales,Male,Voyatouch,24.8,1,2,2.7,1.5,0,5,0.9,13.9,3.1,3,2.6,yes
+10/7/2024,Phip,143,Legal,Speech Pathologist,Male,Subin,3.3,1,2,3.3,0.2,9,0,1.4,12.7,0.3,14,2.1,yes
+6/21/2024,Mareah,45283,Marketing,Automation Specialist II,Female,Bitchip,13.6,5,1,2.0,6.1,1,5,1.3,5.6,0.9,16,2.9,no
+9/6/2024,Whitney,923,Accounting,Business Systems Development Analyst,Female,Mat Lam Tam,0.4,4,2,4.0,5.6,6,4,1.6,2.4,2.9,10,2.9,yes
+9/16/2024,Husein,0,Business Development,Electrical Engineer,Bigender,Sonsing,2.9,1,2,1.2,6.7,10,1,0.9,7.7,4.3,6,3.0,no
+3/12/2025,Rodger,3,Marketing,Senior Developer,Male,Gembucket,21.4,5,1,5.9,6.9,10,5,0.8,3.0,1.4,6,2.6,no
+3/16/2025,Faulkner,8341,Marketing,Software Engineer III,Male,Tin,3.8,3,3,7.2,1.2,6,3,1.5,9.9,2.1,15,1.1,yes
+6/1/2025,Bobbe,92,Business Development,Registered Nurse,Female,Lotlux,7.5,3,1,6.1,1.9,1,2,0.6,3.5,4.5,13,2.8,no
+9/9/2024,Koenraad,0837,Human Resources,Research Nurse,Male,Kanlam,14.2,4,2,1.1,1.7,1,1,1.4,9.1,3.5,14,2.5,no
+5/6/2025,Lesli,34,Accounting,Systems Administrator IV,Female,Sonsing,29.5,1,1,1.8,3.8,4,0,1.4,10.8,1.5,16,3.1,yes
+7/17/2024,Patti,6,Research and Development,Pharmacist,Agender,Zathin,5.1,2,1,4.0,4.0,1,0,1.4,11.1,0.2,0,3.0,no
+7/26/2024,Alexis,8,Training,Nurse,Male,Veribet,6.4,2,5,1.3,7.3,6,1,1.0,14.5,1.8,13,2.7,yes
+7/14/2024,Kylila,83114,Accounting,Product Engineer,Female,Sonsing,20.5,3,3,7.8,3.9,1,0,1.7,5.1,0.8,2,4.8,no
+2/22/2025,Janeta,6392,Sales,Administrative Officer,Female,Toughjoyfax,2.2,2,1,2.9,3.5,0,4,0.5,7.0,0.3,15,3.3,no
+5/6/2025,Eolanda,1745,Human Resources,Chemical Engineer,Female,Vagram,23.5,3,2,2.2,7.0,0,1,0.6,2.6,3.2,12,3.4,yes
+6/4/2024,Timi,1,Support,Chief Design Engineer,Female,Lotstring,26.8,2,5,7.1,6.2,4,1,1.9,2.1,0.4,9,2.9,no
+7/6/2024,Chris,4652,Product Management,Civil Engineer,Male,Veribet,5.2,5,3,1.9,1.7,2,1,1.9,6.3,4.8,11,3.1,no
+6/19/2024,Thane,9390,Legal,Graphic Designer,Male,Hatity,17.1,5,5,5.6,2.1,9,1,1.0,7.7,4.4,10,4.5,no
+1/2/2025,Vernen,9007,Services,GIS Technical Architect,Male,Span,11.8,3,3,5.4,6.7,3,4,1.0,10.8,2.2,16,3.6,no
+6/7/2024,Hogan,2088,Support,Marketing Assistant,Male,Stringtough,1.0,4,4,1.8,2.4,0,3,1.6,14.6,1.6,15,1.4,yes
+1/15/2025,Odie,35,Sales,Business Systems Development Analyst,Male,Flexidy,7.4,1,3,1.7,6.3,0,0,1.4,14.4,0.5,15,4.6,no
+8/14/2024,Tybalt,397,Business Development,Librarian,Male,Sub-Ex,14.0,5,1,0.9,1.0,8,3,1.0,4.5,2.4,10,3.8,no
+12/17/2024,Jillene,3725,Sales,Help Desk Operator,Female,Greenlam,15.8,3,1,5.3,3.2,7,3,0.6,13.7,0.8,11,3.1,no
+3/29/2025,Yorke,7,Services,Account Representative II,Male,Voyatouch,5.7,5,3,7.5,0.2,8,5,2.0,13.5,3.4,6,1.2,yes
+3/16/2025,Rozanne,63,Marketing,Help Desk Technician,Female,Regrant,20.3,1,4,7.6,6.4,6,1,0.8,0.1,3.0,13,3.9,no
+2/18/2025,Leyla,5882,Marketing,General Manager,Female,Mat Lam Tam,29.3,5,4,2.2,5.6,6,5,1.8,8.4,2.0,4,2.9,yes
+9/14/2024,Ulrikaumeko,21129,Sales,Nuclear Power Engineer,Female,Sub-Ex,8.0,3,2,1.1,7.8,10,0,1.0,1.1,3.1,9,2.0,no
+10/22/2024,Lucais,3,Sales,Sales Associate,Male,Alpha,5.8,3,1,1.1,1.0,6,5,0.9,4.8,2.8,8,1.9,no
+2/26/2025,Susette,02215,Business Development,Computer Systems Analyst II,Female,Alphazap,10.5,3,1,6.5,4.2,4,5,1.6,6.8,2.1,15,1.9,yes
+4/21/2025,Puff,8,Accounting,Automation Specialist II,Male,Gembucket,11.6,2,2,2.6,5.0,3,1,1.7,4.3,3.2,0,2.3,yes
+2/28/2025,Deni,14266,Product Management,Account Representative IV,Genderqueer,Mat Lam Tam,12.5,5,1,4.4,5.0,6,0,1.1,13.7,2.6,10,2.1,yes
+12/4/2024,Adriana,49,Product Management,Environmental Tech,Female,Biodex,11.0,1,2,3.2,6.2,8,4,0.7,3.3,1.5,2,3.8,yes
+6/15/2024,Aguste,9,Legal,Chemical Engineer,Male,Bitchip,12.9,4,4,1.7,6.6,3,2,0.8,5.3,4.5,4,1.6,no
+4/16/2025,Cullan,120,Human Resources,Paralegal,Male,Bamity,5.1,4,3,1.0,0.3,2,2,1.6,12.0,0.1,14,2.0,yes
+4/25/2025,Harold,18,Services,Professor,Male,Stringtough,5.7,2,3,3.4,3.2,10,2,1.3,13.2,2.2,10,4.6,no
+4/23/2025,Sylvan,02,Legal,Product Engineer,Male,Hatity,24.6,4,4,1.5,0.9,9,1,1.5,6.9,4.8,4,3.6,no
+1/30/2025,Pierce,4,Engineering,Programmer Analyst II,Male,Asoka,15.0,4,5,6.9,2.7,8,1,1.5,14.0,4.0,4,2.4,yes
+7/2/2024,Huntley,7,Business Development,Developer IV,Male,Veribet,18.1,3,1,7.4,2.9,5,0,0.8,12.0,1.2,13,1.3,yes
+2/4/2025,Deb,42686,Human Resources,Mechanical Systems Engineer,Female,Namfix,7.2,1,1,1.7,4.3,3,4,1.0,1.1,0.9,4,3.1,no
+8/15/2024,Agnese,65467,Business Development,VP Quality Control,Female,Tres-Zap,6.3,1,3,3.0,6.2,3,2,1.3,2.0,0.5,20,2.2,no
+4/22/2025,Gale,6,Human Resources,Tax Accountant,Male,Namfix,0.3,2,4,5.1,7.8,0,2,1.8,9.9,1.9,20,4.6,yes
+6/3/2025,Garrard,40503,Engineering,Database Administrator III,Bigender,Alphazap,13.4,2,5,6.3,0.7,10,3,1.4,2.7,4.4,16,3.2,no
+3/28/2025,Steffane,62,Support,Recruiting Manager,Female,Asoka,14.9,4,5,6.2,5.8,9,4,1.9,10.1,2.1,0,3.2,yes
+2/17/2025,Ilario,4,Business Development,VP Accounting,Male,Subin,3.3,3,3,7.2,4.4,10,4,1.5,1.5,3.9,2,3.9,yes
+12/22/2024,Myron,342,Human Resources,Project Manager,Male,Mat Lam Tam,16.5,3,3,0.6,3.0,8,2,1.3,3.0,1.6,19,3.2,yes
+12/15/2024,Larissa,83227,Training,Marketing Manager,Female,Bitwolf,17.5,2,5,5.7,7.0,9,2,0.9,6.5,3.4,8,4.1,no
+4/19/2025,Jaquenetta,60282,Accounting,Environmental Specialist,Female,Gembucket,9.3,1,2,7.6,4.0,8,2,1.4,2.2,3.4,9,3.5,yes
+4/23/2025,Elmore,771,Marketing,Structural Analysis Engineer,Male,Hatity,19.6,5,3,0.9,3.7,2,5,1.5,0.6,4.8,18,4.3,yes
+4/11/2025,Florella,03890,Accounting,Quality Engineer,Female,Bitwolf,5.3,5,2,6.2,1.7,7,4,0.9,11.4,3.2,3,3.6,yes
+9/2/2024,Reyna,0,Legal,Registered Nurse,Female,Redhold,23.2,4,3,2.4,7.8,9,2,1.0,7.6,4.8,13,3.7,yes
+10/14/2024,Shurlock,12,Sales,Budget/Accounting Analyst I,Male,Y-find,28.8,2,2,4.5,7.6,0,4,1.4,8.4,3.3,17,2.7,yes
+9/5/2024,Kermie,9,Product Management,Environmental Tech,Male,Veribet,2.8,2,5,3.7,6.9,5,3,0.7,5.2,1.4,8,2.5,no
+6/5/2024,Barnie,0,Business Development,Assistant Media Planner,Male,Quo Lux,24.9,2,5,2.2,1.6,5,5,1.9,10.3,4.5,13,4.0,no
+2/1/2025,Horton,1484,Support,Biostatistician III,Male,Redhold,15.0,4,5,6.1,0.5,0,5,0.7,7.3,1.0,12,2.0,yes
+11/4/2024,Chic,63,Marketing,Human Resources Assistant II,Male,Bamity,10.1,3,2,0.6,7.4,2,4,2.0,11.2,4.2,14,4.4,yes
+11/29/2024,Inez,34370,Accounting,Account Representative IV,Female,Rank,21.4,3,3,0.7,7.5,0,0,1.6,14.4,0.4,17,4.5,yes
+12/2/2024,Towney,02722,Training,Staff Scientist,Bigender,Greenlam,25.6,1,4,6.1,0.4,2,0,1.9,12.2,3.6,7,4.0,no
+6/27/2024,Zelig,3,Engineering,Safety Technician I,Male,Tempsoft,26.9,5,4,4.4,7.5,9,1,1.8,11.4,3.3,11,3.1,no
+8/31/2024,Jeannie,8833,Research and Development,Research Assistant IV,Female,Domainer,23.6,1,3,4.3,4.4,3,1,1.3,4.2,3.0,18,1.7,yes
+6/7/2024,Arley,66,Training,Speech Pathologist,Male,Viva,27.0,1,3,5.9,3.4,3,2,1.7,7.4,2.6,19,1.8,yes
+4/27/2025,Chase,194,Training,Financial Analyst,Male,Lotstring,8.2,5,2,1.9,0.0,5,3,0.9,7.2,2.1,20,4.8,no
+10/30/2024,Meagan,3,Research and Development,Executive Secretary,Female,Pannier,12.3,1,3,6.1,3.2,2,2,0.9,8.3,0.2,19,2.9,no
+4/23/2025,Pavlov,1506,Training,Database Administrator IV,Male,Overhold,10.9,1,3,4.7,0.3,10,4,1.3,8.8,0.2,0,2.8,yes
+11/12/2024,Tabby,53,Accounting,Safety Technician II,Male,Opela,24.1,5,4,0.9,0.7,7,4,0.5,6.7,4.1,0,1.1,yes
+1/29/2025,Danika,23,Services,Software Engineer II,Female,Stringtough,17.1,4,4,7.2,5.4,1,0,0.6,8.8,4.9,13,3.8,yes
+5/15/2025,Denver,3665,Services,Analog Circuit Design manager,Male,Zaam-Dox,19.9,1,3,7.9,0.2,2,1,1.1,10.6,3.2,3,3.5,no
+7/15/2024,Judy,3174,Business Development,Editor,Female,Domainer,4.3,4,5,4.3,1.1,1,0,0.7,12.1,3.7,11,1.5,yes
+12/18/2024,Doreen,493,Research and Development,Compensation Analyst,Female,Veribet,7.1,1,5,6.3,2.1,2,0,1.3,9.5,2.4,2,3.1,yes
+6/1/2025,Monti,69055,Business Development,Technical Writer,Male,Tin,7.9,3,1,2.4,6.5,9,4,1.3,7.1,3.3,2,2.6,yes
+7/15/2024,Bradan,3,Services,Social Worker,Male,Pannier,13.7,2,1,2.9,7.7,4,3,1.7,5.5,1.4,2,3.3,no
+3/16/2025,Kate,32144,Engineering,Social Worker,Female,Redhold,27.0,5,3,6.2,4.0,6,1,0.9,4.1,0.3,11,4.9,no
+3/27/2025,Svend,57565,Research and Development,Dental Hygienist,Male,Asoka,17.0,1,4,4.7,7.1,4,5,0.5,6.9,2.9,4,4.2,no
+8/18/2024,Buiron,339,Services,Assistant Professor,Male,It,16.1,5,5,2.9,1.0,4,1,0.8,1.8,2.2,7,4.4,yes
+10/22/2024,Cassey,77183,Marketing,Help Desk Technician,Female,Vagram,24.2,1,1,4.4,3.7,5,3,1.8,3.2,1.6,1,4.3,no
+3/25/2025,Ariadne,0,Legal,Operator,Female,Solarbreeze,23.3,4,1,0.8,1.8,3,4,1.3,11.6,4.3,5,1.8,yes
+12/15/2024,Phineas,7265,Support,Professor,Male,Stim,9.1,3,3,6.7,2.9,3,4,1.1,2.2,1.8,18,3.9,no
+5/29/2025,Lezlie,94,Services,Marketing Assistant,Genderfluid,Bigtax,7.5,2,2,6.2,3.6,7,1,1.7,12.7,2.7,17,2.0,no
+11/21/2024,Siobhan,273,Accounting,Computer Systems Analyst II,Female,Domainer,16.9,2,3,5.3,6.1,10,5,2.0,10.1,3.7,4,1.8,no
+11/28/2024,Brett,0,Business Development,Professor,Female,Pannier,9.4,5,2,5.3,0.5,8,5,1.2,13.2,1.3,11,4.1,no
+9/16/2024,Randell,18,Product Management,Librarian,Male,Konklux,14.5,5,5,2.7,5.2,5,3,1.1,3.6,1.8,16,2.1,yes
+9/27/2024,Kane,734,Legal,Project Manager,Male,Alpha,29.6,4,5,7.4,6.1,8,4,0.6,2.7,2.2,17,3.8,no
+10/3/2024,Guinevere,32,Engineering,Pharmacist,Female,Holdlamis,26.8,3,5,2.4,6.2,5,5,0.7,10.6,1.8,18,2.1,no
+3/31/2025,Ellynn,5,Product Management,Cost Accountant,Female,Tresom,13.3,3,3,7.5,0.4,8,1,1.2,5.0,4.7,4,3.4,no
+10/16/2024,Webb,82197,Research and Development,Business Systems Development Analyst,Male,Quo Lux,16.5,4,5,7.6,4.0,1,0,0.8,5.8,1.6,11,1.9,yes
+9/21/2024,Abran,3,Product Management,Human Resources Assistant IV,Male,Keylex,10.2,5,1,6.3,5.5,6,5,0.9,12.8,5.0,20,4.6,yes
+3/21/2025,Leeanne,8340,Support,Sales Representative,Female,Flowdesk,22.7,2,2,3.1,2.4,1,0,1.4,10.8,1.3,1,1.1,no
+10/25/2024,Barnaby,9,Support,Senior Quality Engineer,Male,Trippledex,1.2,3,5,5.1,3.9,0,3,0.6,10.0,0.9,4,1.0,no
+7/7/2024,Daniela,6,Training,Web Developer IV,Female,Mat Lam Tam,3.6,2,2,7.9,0.6,0,1,1.7,0.5,2.6,14,3.0,yes
+1/24/2025,Giacopo,3317,Legal,Biostatistician II,Male,Regrant,19.2,3,4,3.9,2.7,3,2,1.9,6.9,2.1,16,2.2,yes
+11/18/2024,Farris,386,Human Resources,Paralegal,Male,Viva,5.8,1,1,2.3,7.8,3,4,0.9,9.6,1.0,1,3.2,yes
+3/4/2025,Brandy,83673,Training,Chief Design Engineer,Male,Cookley,13.0,2,2,4.1,5.4,9,2,1.9,5.5,3.0,6,2.9,yes
+7/16/2024,Vitoria,66369,Support,Automation Specialist IV,Female,Voyatouch,1.9,2,4,5.3,4.2,5,4,1.3,2.4,0.2,11,1.4,yes
+6/19/2024,Reuben,85,Accounting,Junior Executive,Male,Sonair,6.1,4,5,5.8,2.9,7,5,1.3,1.3,1.4,19,3.1,no
+2/2/2025,Corabel,8,Services,Human Resources Assistant II,Female,Bigtax,15.7,1,1,0.7,3.0,10,1,1.3,13.4,1.4,17,4.6,yes
+3/11/2025,Ketty,45975,Business Development,Health Coach I,Female,Stringtough,1.4,3,4,8.0,6.9,5,5,0.9,14.5,2.7,18,3.4,yes
+8/3/2024,Eunice,063,Product Management,Environmental Tech,Female,Tin,21.9,1,2,6.2,5.0,10,0,1.7,0.5,0.2,1,4.3,no
+9/27/2024,Ezri,9661,Accounting,Recruiting Manager,Male,Solarbreeze,11.1,5,2,7.9,5.4,5,3,1.6,3.6,4.7,12,2.6,no
+1/17/2025,Valida,4917,Research and Development,Electrical Engineer,Female,Lotlux,27.0,1,4,3.7,5.7,3,0,1.9,7.5,3.1,14,1.0,yes
+1/17/2025,Stanton,2,Marketing,Chief Design Engineer,Male,Ronstring,11.0,3,2,1.3,8.0,3,0,1.8,5.8,4.6,6,3.2,yes
+4/1/2025,Nikolaus,17092,Support,Operator,Male,Mat Lam Tam,5.2,2,2,5.7,5.6,1,1,1.9,14.3,0.7,12,4.4,no
+8/14/2024,Nelia,6,Sales,Social Worker,Female,Prodder,6.1,4,4,4.5,1.2,0,1,1.6,3.4,1.0,4,4.6,yes
+5/13/2025,Skell,0,Business Development,Business Systems Development Analyst,Male,Temp,2.3,5,3,6.0,1.8,0,3,1.0,6.1,2.8,9,3.7,yes
+10/10/2024,Neddie,796,Research and Development,Community Outreach Specialist,Male,Greenlam,10.3,1,1,1.5,4.4,7,3,1.5,0.7,4.2,14,4.2,no
+4/15/2025,Eldon,8957,Training,Accountant IV,Male,Cardguard,4.4,3,3,1.8,7.4,1,0,0.8,8.0,3.2,12,3.3,no
+3/16/2025,Gerrie,4315,Marketing,Administrative Officer,Male,Tempsoft,6.8,1,3,1.7,4.2,1,2,1.5,12.1,0.9,12,1.8,yes
+7/24/2024,Siward,2608,Support,Chemical Engineer,Male,Sonair,1.8,3,5,5.9,7.9,1,4,1.7,10.5,0.3,2,4.0,no
+9/9/2024,Leupold,3,Human Resources,Account Executive,Male,Subin,19.6,4,3,2.0,2.0,1,0,0.8,6.1,2.9,2,3.2,yes
+10/24/2024,Dusty,005,Product Management,Cost Accountant,Female,Viva,20.6,4,1,2.6,0.4,1,1,0.8,8.7,3.8,20,3.2,no
+5/14/2025,Manya,758,Training,Financial Analyst,Female,Kanlam,3.4,3,5,2.0,2.0,4,3,0.8,13.5,3.4,18,4.2,no
+7/10/2024,Forest,8225,Legal,Chief Design Engineer,Male,Viva,4.8,2,5,4.2,3.0,10,4,0.7,13.2,0.9,10,4.4,no
+4/15/2025,Sheelagh,29490,Legal,Statistician II,Female,Span,11.1,1,2,1.8,0.4,2,1,1.3,8.1,4.9,5,2.4,no
+8/16/2024,Minor,885,Business Development,Payment Adjustment Coordinator,Male,Cardify,15.1,1,5,2.0,0.3,8,0,0.8,13.3,3.9,1,1.6,no
+11/1/2024,Cecile,3,Human Resources,Automation Specialist III,Female,Lotstring,23.4,2,2,3.1,4.5,3,5,0.9,8.3,0.2,1,1.2,yes
+1/8/2025,Nellie,43584,Business Development,Environmental Tech,Female,Tres-Zap,18.0,3,1,1.9,3.0,6,3,1.7,4.6,4.9,3,1.8,no
+2/11/2025,Jehanna,73,Support,VP Sales,Female,Fix San,14.4,1,5,4.7,1.5,4,3,0.7,7.6,3.3,2,2.5,yes
+11/19/2024,Horatia,0744,Human Resources,Compensation Analyst,Female,Cookley,13.7,4,1,4.0,2.1,6,5,1.1,0.4,0.2,1,4.1,yes
+5/30/2025,Doloritas,886,Legal,General Manager,Female,Matsoft,4.2,2,2,7.1,3.0,0,5,1.2,9.9,2.9,7,1.2,no
+1/10/2025,Taffy,15,Research and Development,Marketing Assistant,Female,Domainer,4.3,4,5,6.9,3.4,3,5,1.0,6.7,3.8,4,3.3,no
+11/26/2024,Sterne,65119,Research and Development,Tax Accountant,Male,Bytecard,17.6,5,5,5.1,6.0,0,2,1.2,6.8,0.5,0,1.4,yes
+11/21/2024,Gabi,40632,Legal,Statistician II,Male,It,19.8,3,2,6.4,0.0,9,3,1.1,10.2,0.4,19,1.1,no
+12/17/2024,Ingra,01,Support,Sales Associate,Male,Bamity,23.9,4,3,5.9,4.3,10,3,1.2,5.3,4.7,8,3.0,yes
+9/23/2024,Margareta,000,Support,Staff Scientist,Female,Flexidy,11.5,5,5,7.2,2.8,7,3,1.4,1.0,0.6,20,2.4,no
+11/19/2024,Desi,06,Engineering,Nurse Practicioner,Male,Cardguard,5.2,5,1,7.0,4.3,6,3,1.5,12.4,3.6,18,4.5,no
+6/22/2024,Andie,68,Human Resources,Senior Cost Accountant,Female,Matsoft,9.3,1,3,4.7,5.9,6,3,1.8,1.0,3.3,12,2.7,no
+12/27/2024,Welbie,3629,Research and Development,Technical Writer,Male,Rank,14.5,1,2,1.6,2.0,1,2,1.9,3.8,4.8,6,4.0,yes
+2/3/2025,Cully,7,Product Management,Recruiting Manager,Bigender,Tresom,10.7,3,4,4.1,2.4,2,3,1.2,6.7,3.9,14,2.3,no
+7/23/2024,Jeanie,66190,Sales,Accountant III,Female,Domainer,1.2,1,3,6.8,1.9,10,0,1.1,9.7,2.5,15,4.1,no
+5/21/2025,Consuelo,4588,Legal,Automation Specialist I,Female,Zontrax,26.8,5,1,7.6,2.7,0,2,1.5,9.7,1.0,18,4.0,no
+2/14/2025,Blake,476,Business Development,Legal Assistant,Non-binary,Veribet,27.4,4,3,5.2,5.7,7,0,0.6,13.3,4.9,11,2.2,yes
+3/29/2025,Debi,55,Research and Development,Editor,Female,Tampflex,20.2,2,5,5.6,4.7,6,2,1.6,4.6,2.1,4,1.0,no
+7/2/2024,Novelia,75,Business Development,Operator,Female,Bigtax,21.7,5,1,2.7,1.6,5,5,1.4,9.2,2.3,20,3.4,yes
+10/2/2024,Netty,0737,Research and Development,Health Coach III,Female,Opela,21.1,5,4,0.8,1.9,7,1,1.4,14.7,1.7,10,4.9,yes
+8/9/2024,Dorry,2,Sales,Assistant Professor,Female,Quo Lux,26.6,3,4,3.8,2.2,7,1,0.5,13.6,1.0,20,3.6,no
+1/21/2025,Mickie,09956,Product Management,Design Engineer,Female,Tres-Zap,24.7,2,5,0.8,5.5,7,1,1.1,10.4,4.8,11,1.1,no
+5/7/2025,Hube,815,Research and Development,Pharmacist,Male,Asoka,8.5,2,2,4.1,5.9,6,4,1.1,6.4,1.8,19,3.8,no
+9/25/2024,Nefen,29,Services,Senior Developer,Male,Ronstring,9.4,1,3,4.1,1.4,1,4,1.5,6.1,4.3,20,4.6,no
+4/22/2025,Gretel,652,Services,Chief Design Engineer,Female,Kanlam,21.7,1,1,4.6,0.9,0,2,0.5,6.7,4.7,16,2.7,yes
+1/27/2025,Moses,5,Accounting,Account Executive,Male,Namfix,23.3,1,5,0.9,4.7,2,4,1.0,0.2,3.2,15,2.7,yes
+11/25/2024,Ileane,16,Engineering,Programmer Analyst IV,Female,Zoolab,9.5,5,1,2.9,4.5,9,5,1.6,10.3,3.3,18,4.3,no
+5/30/2025,Lionel,09,Training,Mechanical Systems Engineer,Male,Greenlam,13.0,1,5,2.7,4.2,0,0,1.7,10.3,0.8,13,2.8,yes
+12/20/2024,Paulie,941,Sales,Automation Specialist III,Male,Stim,26.3,5,4,1.8,6.7,6,2,1.3,3.6,1.6,7,4.4,no
+12/11/2024,Lorne,74631,Business Development,General Manager,Male,Regrant,27.8,2,5,5.0,1.0,4,5,1.4,5.7,3.0,0,3.7,yes
+12/16/2024,Erwin,82594,Product Management,Human Resources Manager,Agender,Job,27.0,1,1,3.9,4.6,10,2,1.4,7.9,2.4,18,1.7,yes
+11/5/2024,Cordy,05,Legal,Environmental Tech,Genderfluid,Cardguard,21.1,2,1,3.4,7.8,4,0,1.5,14.1,3.9,15,4.7,no
+5/27/2025,Ashleigh,14,Accounting,Account Coordinator,Female,Tresom,18.4,4,4,3.7,7.4,6,3,1.7,7.9,4.3,17,3.9,no
+10/13/2024,Edmon,003,Sales,Payment Adjustment Coordinator,Male,Stringtough,17.4,1,5,6.2,6.7,8,4,1.5,0.9,1.5,0,3.7,yes
+5/16/2025,Devy,70,Marketing,Account Executive,Male,Redhold,3.9,1,3,7.7,3.6,0,0,1.6,13.6,0.5,0,3.3,no
+11/15/2024,Karilynn,66694,Accounting,Senior Cost Accountant,Genderqueer,Solarbreeze,9.8,4,4,7.4,5.3,5,4,2.0,9.4,2.5,7,1.5,yes
+1/5/2025,Dorelle,213,Human Resources,Human Resources Assistant IV,Female,Pannier,6.1,4,1,7.0,4.3,7,2,0.8,2.5,3.2,6,2.4,yes
+9/1/2024,Clayson,575,Research and Development,VP Marketing,Male,Veribet,21.8,1,3,2.7,3.2,1,2,1.0,13.5,0.9,19,4.3,no
+12/9/2024,Katerine,1,Accounting,Analyst Programmer,Female,Job,25.1,1,5,2.5,6.1,7,2,0.7,13.4,3.4,1,2.9,yes
+2/15/2025,Oates,5056,Marketing,Technical Writer,Male,Cardguard,16.8,3,2,4.1,4.3,2,3,1.7,14.9,0.6,14,1.2,yes
+11/1/2024,Isidor,200,Human Resources,Safety Technician II,Male,Prodder,15.3,2,5,6.6,4.6,10,2,0.9,8.5,3.4,16,3.9,yes
+12/7/2024,Charita,43,Sales,Research Assistant I,Female,Zamit,4.0,4,5,2.5,6.5,9,2,0.5,8.0,1.1,5,4.5,yes
+7/13/2024,Tomlin,1,Business Development,Senior Sales Associate,Male,Keylex,13.9,2,3,4.7,6.0,0,1,1.7,1.6,3.6,8,2.4,yes
+12/3/2024,Horace,33,Support,VP Marketing,Male,Viva,25.4,4,2,7.0,3.2,2,4,1.3,12.4,0.8,13,2.5,yes
+4/27/2025,Hillary,72,Business Development,Structural Analysis Engineer,Male,Stringtough,4.6,5,5,4.2,3.5,6,5,0.8,0.0,2.2,20,2.3,no
+10/9/2024,Maribeth,05,Product Management,Administrative Officer,Female,Zoolab,8.2,3,1,1.5,4.7,4,5,1.6,11.4,2.4,16,4.7,no
+1/31/2025,Fey,56,Engineering,Geologist IV,Female,Asoka,11.4,1,1,7.3,6.6,2,1,0.8,13.0,4.6,11,3.8,no
+1/2/2025,Alaine,0236,Accounting,Safety Technician IV,Female,Fix San,8.2,4,1,4.8,7.4,1,2,1.2,3.9,2.5,14,4.5,no
+12/14/2024,Rancell,1,Research and Development,Nurse,Male,Home Ing,8.8,2,1,4.0,4.1,2,3,1.9,8.7,4.8,5,4.9,no
+9/9/2024,Judi,61,Human Resources,Librarian,Female,Stronghold,27.6,3,2,4.4,3.6,6,3,1.7,2.7,2.2,6,2.6,no
+12/23/2024,Gladi,17550,Training,Administrative Assistant II,Female,Stim,28.5,2,5,7.6,4.2,6,0,1.2,10.3,0.8,17,2.6,yes
+1/3/2025,Garrick,58111,Business Development,Teacher,Male,Daltfresh,12.6,5,5,5.7,2.7,0,3,1.1,9.8,4.7,14,1.9,yes
+8/25/2024,Jordon,0144,Human Resources,Health Coach III,Male,Ventosanzap,18.8,2,3,2.7,2.2,4,4,1.7,3.3,0.8,10,1.7,yes
+10/3/2024,Jemie,0827,Human Resources,Budget/Accounting Analyst III,Female,Overhold,23.7,4,4,3.1,0.0,5,3,0.7,2.9,0.8,13,4.2,no
+6/9/2024,Dennis,319,Business Development,Technical Writer,Male,Konklab,29.4,5,2,1.5,4.2,4,0,1.7,6.4,3.4,1,4.3,no
+2/27/2025,Lars,204,Accounting,Account Representative III,Male,Pannier,22.7,1,4,6.9,3.9,5,5,1.5,7.7,4.0,0,4.8,no
+6/24/2024,Johnna,22545,Product Management,Paralegal,Non-binary,Prodder,1.5,2,4,5.0,6.3,1,0,1.5,14.0,4.9,12,3.8,yes
+11/19/2024,Renaldo,3,Sales,VP Quality Control,Male,Zoolab,24.0,2,2,1.4,0.0,10,5,0.8,14.3,0.8,10,2.2,yes
+8/19/2024,Codi,72,Legal,Data Coordinator,Female,Ventosanzap,16.6,5,2,4.9,2.5,9,3,1.6,11.0,0.1,6,1.0,no
+10/18/2024,Doretta,08,Sales,Senior Sales Associate,Bigender,Bigtax,17.8,1,3,4.0,0.1,6,4,1.9,6.6,0.2,8,4.0,yes
+9/4/2024,Alexei,2667,Marketing,Assistant Professor,Male,Sonsing,26.7,2,2,1.4,4.5,2,0,0.5,4.9,4.6,5,2.9,no
+1/4/2025,Stanwood,33331,Support,Analyst Programmer,Male,Vagram,15.2,5,3,7.7,0.7,5,1,1.4,4.8,3.8,8,2.9,no
+12/4/2024,Averill,10195,Accounting,Structural Engineer,Non-binary,Namfix,25.5,4,3,5.7,6.9,9,4,1.6,2.7,0.6,10,4.3,no
+8/23/2024,Deanne,43450,Sales,Internal Auditor,Female,Zamit,26.0,2,2,2.4,6.1,5,5,1.8,6.2,3.5,5,4.4,no
+7/5/2024,Cicily,9,Research and Development,Design Engineer,Female,Namfix,10.5,3,5,1.1,7.0,3,0,0.6,6.7,3.6,13,1.6,no
+12/19/2024,Olly,91261,Training,Account Representative IV,Female,Bitwolf,0.6,3,3,2.6,7.4,5,2,1.8,4.1,0.3,20,3.0,yes
+8/19/2024,Gil,1,Marketing,VP Product Management,Male,Domainer,27.5,3,5,3.0,0.9,10,3,0.9,3.8,4.6,9,3.4,no
+3/31/2025,Lilas,5,Research and Development,Sales Associate,Female,Gembucket,13.0,4,5,7.0,0.1,10,5,1.2,9.8,3.2,16,4.0,no
+1/14/2025,Rupert,1,Accounting,Administrative Officer,Male,Domainer,2.8,5,2,6.5,3.0,6,5,0.6,4.8,3.1,3,3.0,yes
+9/26/2024,Lavinia,1,Accounting,Editor,Female,Toughjoyfax,22.9,3,4,5.0,2.6,7,5,0.5,1.8,4.3,0,4.5,no
+9/7/2024,Allan,5,Product Management,Legal Assistant,Non-binary,Stronghold,12.3,4,3,1.9,3.4,0,3,0.8,10.8,4.0,7,2.7,yes
+11/1/2024,Mariel,4538,Sales,Structural Analysis Engineer,Non-binary,Hatity,26.5,1,4,2.8,0.9,4,4,0.5,3.1,2.8,14,3.8,yes
+4/23/2025,Virgil,90,Engineering,Graphic Designer,Male,Stringtough,17.6,2,3,0.8,5.1,8,2,1.3,14.5,2.9,3,1.5,no
+2/4/2025,Linnea,1,Product Management,Help Desk Operator,Female,Bigtax,21.9,5,2,1.4,1.6,2,0,1.2,7.1,1.1,7,1.7,no
+4/23/2025,Daphene,7511,Engineering,Health Coach II,Female,Hatity,3.0,4,3,3.7,2.8,1,1,1.2,12.3,1.0,3,3.7,yes
+5/22/2025,Georgine,0725,Legal,Administrative Officer,Female,Fintone,11.1,4,2,2.6,1.0,9,1,0.7,10.7,3.8,5,1.0,yes
+2/28/2025,Rodolfo,5,Accounting,Safety Technician IV,Male,Transcof,27.5,4,3,3.1,2.0,4,1,1.6,5.1,2.7,14,2.3,no
+8/19/2024,Jayson,62,Business Development,Senior Sales Associate,Male,Fixflex,26.0,2,5,6.6,2.7,1,4,1.2,9.4,4.8,3,2.1,no
+2/14/2025,Christopher,78647,Legal,Physical Therapy Assistant,Male,Temp,3.1,3,1,0.5,2.5,0,4,1.0,7.2,0.6,20,1.7,no
+5/27/2025,Allx,2,Business Development,Physical Therapy Assistant,Female,Stringtough,22.5,2,2,4.2,4.4,10,2,0.8,8.2,4.7,19,2.7,no
+4/30/2025,Anallise,22679,Marketing,Administrative Assistant II,Female,Konklab,21.3,2,3,2.2,2.9,2,3,1.9,14.8,4.7,14,1.5,no
+3/17/2025,Lissy,16,Research and Development,Account Executive,Female,Transcof,6.8,3,5,6.7,0.5,7,4,1.8,14.9,1.0,3,1.3,no
+3/16/2025,Ozzy,73759,Product Management,Quality Control Specialist,Male,Lotlux,6.0,2,1,3.8,5.5,3,4,1.5,3.9,2.0,9,4.9,no
+12/17/2024,Nerte,2,Product Management,Staff Accountant III,Female,Veribet,9.3,5,4,2.8,6.0,2,4,1.3,14.8,0.8,6,2.9,yes
+9/17/2024,Paolo,1,Sales,Systems Administrator IV,Male,Home Ing,26.6,2,4,0.9,6.0,9,3,1.8,4.1,3.9,16,1.9,no
+6/5/2024,Darrick,087,Accounting,Help Desk Technician,Male,It,9.8,2,4,5.6,7.1,5,1,1.3,10.9,4.7,3,3.3,no
+12/13/2024,Clotilda,8241,Support,Biostatistician IV,Female,Domainer,1.1,1,3,4.8,3.4,2,4,1.5,0.5,4.3,7,4.0,no
+7/4/2024,Dannel,18,Product Management,Senior Sales Associate,Male,Home Ing,3.9,5,3,7.0,1.9,2,2,0.8,8.7,1.5,2,2.4,yes
+7/23/2024,Megen,65309,Product Management,VP Quality Control,Female,Namfix,13.1,1,2,0.6,3.9,9,2,1.6,1.1,3.9,2,4.8,yes
+8/26/2024,Aleksandr,1333,Services,Staff Accountant II,Male,Cardify,3.8,2,5,3.0,6.8,1,0,1.1,1.3,3.0,4,2.9,yes
+12/31/2024,Celestia,8459,Support,Desktop Support Technician,Female,Voyatouch,2.4,3,4,2.0,4.6,5,2,1.0,9.8,3.2,1,2.0,no
+6/23/2024,Jandy,9327,Research and Development,Professor,Female,Ventosanzap,11.1,3,4,7.1,1.2,7,0,1.5,4.0,0.5,1,1.9,yes
+1/13/2025,Bellanca,06,Business Development,Community Outreach Specialist,Female,Alpha,2.1,3,1,3.5,7.6,6,2,0.8,4.8,3.6,16,1.4,yes
+11/25/2024,Krystal,39,Engineering,Help Desk Technician,Female,Aerified,20.0,3,2,4.5,2.8,5,1,0.8,12.6,0.3,5,2.2,no
+8/17/2024,Joela,57,Sales,Software Consultant,Female,Alpha,22.0,4,1,4.6,1.9,7,1,1.8,5.5,2.6,3,2.0,no
+2/16/2025,Rozina,999,Sales,Health Coach III,Polygender,Y-find,22.2,5,2,5.0,0.2,6,0,1.6,1.0,2.7,7,3.6,no
+4/3/2025,Murdoch,5969,Support,Executive Secretary,Male,Ventosanzap,10.1,4,1,0.5,4.5,2,4,1.0,8.8,4.3,16,2.1,yes
+4/29/2025,Krisha,2898,Engineering,Engineer III,Male,Holdlamis,23.2,3,4,6.5,4.6,0,5,1.0,13.0,2.2,11,4.3,yes
+7/12/2024,Gale,12092,Business Development,VP Accounting,Male,Zaam-Dox,29.5,5,3,2.6,3.3,6,3,0.8,8.3,2.9,11,2.4,no
+2/20/2025,Leann,4953,Legal,Graphic Designer,Female,Treeflex,1.3,2,2,3.4,1.9,5,0,1.4,2.8,4.8,2,1.6,no
+6/12/2024,Kristien,60,Engineering,Compensation Analyst,Female,Rank,22.1,5,5,4.6,2.5,3,4,1.8,13.4,3.2,3,2.9,no
+10/4/2024,Diena,338,Engineering,Systems Administrator IV,Female,Otcom,1.7,4,3,7.9,1.6,7,3,1.2,10.6,2.1,12,1.6,yes
+8/20/2024,Carver,9,Sales,Software Consultant,Male,Quo Lux,7.7,4,1,3.5,6.7,1,1,1.8,5.9,2.8,20,1.9,yes
+6/6/2024,Manolo,7,Human Resources,Health Coach IV,Bigender,Fix San,5.5,1,4,2.5,5.4,2,3,1.8,2.3,4.2,14,3.4,no
+2/14/2025,Matty,44290,Marketing,Junior Executive,Male,Span,28.2,5,1,6.6,6.8,5,5,1.1,2.3,2.0,8,1.4,no
+9/27/2024,Herbie,9,Engineering,Financial Analyst,Male,Zamit,14.9,4,2,7.1,7.1,8,5,0.6,11.3,0.7,3,3.9,yes
+3/30/2025,Kameko,20628,Support,Teacher,Female,Tin,0.2,3,5,7.7,4.4,8,5,1.6,5.9,4.6,3,1.2,no
+7/23/2024,Lalo,91,Business Development,Occupational Therapist,Agender,Tempsoft,24.7,2,3,7.4,7.6,8,2,0.8,8.5,2.4,4,3.0,no
+4/16/2025,Rudolf,91,Marketing,Cost Accountant,Male,Tres-Zap,19.6,2,4,0.7,6.7,6,3,0.9,5.3,1.9,3,3.7,yes
+12/11/2024,Cloe,12,Engineering,Environmental Tech,Female,Cookley,26.7,3,3,2.5,1.0,0,5,1.8,13.7,4.3,7,1.5,no
+9/20/2024,Dareen,9142,Services,Legal Assistant,Genderfluid,Trippledex,19.7,4,4,0.9,4.2,6,4,0.8,12.9,1.1,12,4.5,yes
+7/4/2024,Gerrie,9,Engineering,Marketing Manager,Male,Flexidy,6.1,2,5,6.2,6.6,6,4,1.8,1.8,1.5,16,4.0,yes
+9/22/2024,Albertina,1167,Engineering,Quality Engineer,Female,Zamit,9.7,3,4,2.0,0.5,3,0,0.9,0.9,0.9,7,1.7,yes
+1/26/2025,Theobald,7,Human Resources,Senior Quality Engineer,Male,Bigtax,7.4,4,2,4.1,3.2,10,4,1.2,4.2,3.6,0,1.1,no
+4/14/2025,Carmela,0,Human Resources,Dental Hygienist,Female,Cookley,27.0,3,2,1.2,2.8,6,4,0.8,1.0,3.8,12,4.2,no
+4/15/2025,Sharron,4,Marketing,Senior Sales Associate,Female,Daltfresh,21.2,2,2,7.1,1.4,6,3,1.9,8.9,3.7,11,4.6,yes
+12/18/2024,Raeann,44239,Business Development,Research Associate,Female,Tempsoft,20.4,5,2,7.2,5.0,3,4,1.2,7.0,2.2,13,1.5,no
+12/3/2024,Nanny,19636,Accounting,Senior Sales Associate,Female,Konklab,10.0,4,3,1.1,4.7,0,0,1.7,12.4,2.8,13,4.3,yes
+5/6/2025,Carry,0,Human Resources,Human Resources Assistant III,Female,Duobam,13.9,3,3,5.0,7.8,5,4,1.6,11.3,3.9,9,3.7,no
+1/3/2025,Shaylah,19,Research and Development,Sales Representative,Female,Asoka,27.4,3,5,3.5,5.6,10,5,0.7,5.1,3.0,14,2.4,no
+6/7/2024,Corenda,39,Human Resources,General Manager,Female,Stronghold,19.9,1,2,2.2,6.7,10,4,1.7,2.0,2.0,15,4.3,no
+12/19/2024,Grenville,823,Sales,Senior Cost Accountant,Male,Prodder,4.5,2,5,7.3,5.4,10,2,0.7,14.5,0.2,19,4.2,yes
+3/16/2025,Hillie,8,Business Development,Senior Quality Engineer,Male,Tempsoft,8.1,4,4,3.9,2.0,1,1,1.0,7.6,4.5,18,4.0,yes
+12/29/2024,Maddy,9,Support,Nuclear Power Engineer,Genderfluid,Fix San,22.9,4,2,5.5,4.9,10,0,1.1,13.2,1.1,4,2.1,no
+3/15/2025,Quincy,4,Business Development,Assistant Manager,Male,Prodder,2.7,5,4,4.5,3.1,7,2,0.9,7.1,1.0,0,4.8,no
+6/29/2024,Alyss,297,Business Development,Business Systems Development Analyst,Polygender,Subin,0.4,1,5,5.8,6.5,0,5,1.0,11.8,0.6,13,3.0,no
+8/13/2024,Carl,0000,Training,Pharmacist,Male,Wrapsafe,16.8,3,4,0.7,2.9,9,1,1.9,7.6,3.3,11,1.6,no
+8/26/2024,Diannne,7736,Engineering,Account Representative I,Female,Keylex,16.2,1,4,2.2,2.2,1,2,1.8,2.9,2.4,8,2.8,yes
+6/19/2024,Grady,14,Product Management,Physical Therapy Assistant,Male,Temp,24.6,2,5,4.7,0.4,9,4,1.3,3.1,3.2,16,4.5,no
+7/23/2024,Wallis,89476,Support,Recruiter,Bigender,Span,11.7,1,1,0.7,3.0,7,0,1.5,5.5,0.9,11,1.1,no
+4/27/2025,Marybeth,597,Support,VP Marketing,Female,Mat Lam Tam,29.7,1,1,6.0,3.9,2,0,1.6,11.4,0.3,12,4.3,yes
+1/31/2025,Haley,17244,Product Management,Editor,Male,Quo Lux,25.9,5,1,7.4,6.4,6,4,1.2,4.6,0.9,3,3.4,yes
+2/28/2025,Jordan,254,Accounting,Senior Financial Analyst,Female,Bitchip,0.4,4,3,2.2,6.5,1,2,1.2,4.1,3.3,12,3.0,no
+3/14/2025,Lorelei,8,Accounting,Human Resources Assistant I,Female,Hatity,12.6,1,5,3.7,0.4,8,3,1.3,13.6,1.6,14,1.8,no
+6/3/2025,Kai,2284,Research and Development,Operator,Female,Fixflex,28.0,5,1,5.9,4.3,6,1,1.8,10.7,3.4,12,1.1,no
+11/22/2024,Marcelo,2,Services,Web Designer II,Polygender,Fixflex,14.8,3,2,3.7,1.9,1,3,1.2,8.6,4.4,11,2.2,no
+11/20/2024,Kristal,923,Marketing,VP Sales,Female,Solarbreeze,3.1,3,1,3.6,6.1,8,2,1.4,2.2,4.2,4,4.7,yes
+7/8/2024,Rusty,5,Accounting,Legal Assistant,Male,Solarbreeze,5.0,4,3,3.3,1.1,6,5,1.8,1.7,2.1,2,1.8,no
+6/17/2024,Stephana,2468,Research and Development,Software Consultant,Female,Cardify,10.0,5,3,5.1,4.4,6,5,0.6,1.8,3.6,14,2.8,yes
+2/28/2025,Fonzie,0950,Training,Desktop Support Technician,Male,Sub-Ex,21.5,3,4,2.3,6.0,2,5,1.4,4.8,0.8,12,4.8,yes
+9/6/2024,Oliver,3390,Training,Account Representative I,Bigender,Konklux,20.6,4,4,5.2,4.4,3,2,1.7,12.9,2.0,2,3.1,no
+11/17/2024,Dorey,81727,Services,Payment Adjustment Coordinator,Female,Voyatouch,15.9,4,4,7.7,6.6,5,1,1.6,7.7,2.8,2,2.7,no
+12/27/2024,Bird,005,Business Development,Structural Engineer,Female,Solarbreeze,0.7,4,5,2.4,5.9,6,5,1.1,3.5,0.2,20,1.2,no
+12/25/2024,Esra,949,Business Development,VP Product Management,Male,Biodex,23.4,5,1,6.2,7.3,9,4,1.9,2.5,4.5,10,2.7,yes
+5/5/2025,Nadeen,41,Business Development,Operator,Female,Otcom,21.8,4,1,5.2,2.8,8,0,1.8,6.4,0.9,6,1.3,yes
+7/31/2024,Corby,0,Business Development,Technical Writer,Male,Cardguard,29.6,3,2,1.2,5.0,10,2,1.5,8.1,0.5,12,2.9,no
+9/5/2024,Vinnie,9473,Training,Analyst Programmer,Male,Tres-Zap,25.0,3,5,8.0,7.2,10,0,1.1,0.7,4.6,4,5.0,yes
+8/28/2024,Sansone,95570,Support,Financial Analyst,Male,Keylex,13.3,1,1,6.9,5.2,1,3,0.8,0.2,2.0,0,3.4,yes
+6/18/2024,Liam,0775,Engineering,Professor,Male,Zontrax,8.6,1,1,2.7,5.4,5,0,1.8,9.3,1.7,14,3.9,no
+10/7/2024,Delilah,66,Product Management,Electrical Engineer,Female,Pannier,9.9,5,4,4.8,2.7,5,1,0.8,8.8,1.6,0,1.2,no
+4/11/2025,Dona,58448,Accounting,Office Assistant II,Female,Sonair,15.2,2,4,2.2,0.1,0,2,0.5,14.6,0.1,0,4.3,no
+3/14/2025,Adrianne,1086,Product Management,Automation Specialist IV,Female,Stronghold,2.9,2,2,4.9,1.5,3,3,1.0,8.0,3.7,5,3.4,no
+7/21/2024,Inness,690,Research and Development,Accountant I,Male,Gembucket,12.0,5,4,1.3,3.7,0,2,1.9,10.8,0.6,10,4.0,no
+2/17/2025,Brock,0,Legal,Help Desk Technician,Male,Tin,14.5,2,5,1.8,2.2,6,3,1.5,13.8,0.1,19,1.8,yes
+6/3/2025,Xena,93701,Training,Environmental Tech,Female,Zaam-Dox,0.7,4,5,2.3,5.1,7,4,1.9,4.7,1.5,9,3.9,no
+6/27/2024,Aimil,9688,Human Resources,Community Outreach Specialist,Female,Y-find,3.9,1,4,5.9,1.8,6,4,0.9,6.5,2.8,2,1.5,no
+12/22/2024,Blondelle,82,Business Development,Physical Therapy Assistant,Female,Asoka,18.5,3,1,1.8,7.4,2,1,0.9,1.5,0.1,17,4.8,no
+8/12/2024,Gus,599,Training,GIS Technical Architect,Female,Transcof,15.5,1,5,2.0,5.6,10,1,1.3,10.9,4.3,14,3.8,yes
+2/28/2025,Kellie,5404,Marketing,VP Marketing,Female,Duobam,3.8,2,2,1.7,2.2,5,1,1.8,9.8,3.5,9,4.5,no
+1/2/2025,Rasia,4722,Engineering,Paralegal,Female,Tresom,9.7,5,1,1.6,3.0,4,3,1.8,7.6,0.5,2,4.6,yes
+5/27/2025,Raoul,766,Product Management,Payment Adjustment Coordinator,Non-binary,Duobam,29.2,3,4,1.3,1.8,8,4,2.0,9.8,0.5,16,2.8,yes
+9/29/2024,Mariquilla,80104,Training,Product Engineer,Female,Temp,3.6,5,1,3.5,6.5,8,1,1.6,10.2,1.7,4,4.3,no
+3/9/2025,Perice,8482,Accounting,Staff Accountant IV,Male,Overhold,20.8,1,4,3.7,1.2,5,4,1.3,13.5,1.2,10,2.5,yes
+7/1/2024,Jordanna,9,Product Management,Help Desk Technician,Female,Fixflex,12.8,4,5,4.9,3.6,8,2,1.5,2.7,2.7,19,4.7,yes
+2/22/2025,Zsazsa,31530,Engineering,Quality Control Specialist,Female,Rank,29.1,2,2,2.7,2.3,10,4,2.0,1.6,3.3,19,3.4,yes
+2/20/2025,Duffie,04,Services,Automation Specialist I,Male,Transcof,12.1,4,4,4.7,6.7,3,1,1.5,10.4,4.9,15,2.7,no
+9/23/2024,Karon,55561,Marketing,Senior Quality Engineer,Female,Aerified,11.7,5,2,7.8,2.8,6,1,2.0,6.3,4.8,3,4.6,no
+9/8/2024,Geri,39,Human Resources,Environmental Tech,Male,Job,6.8,2,4,6.5,3.9,9,2,1.7,2.0,4.6,7,3.5,no
+2/17/2025,Yardley,5,Human Resources,Cost Accountant,Male,Fintone,4.3,3,5,2.7,3.2,5,3,1.2,6.0,0.2,11,4.1,yes
+4/23/2025,Hersh,35323,Human Resources,Engineer I,Male,Y-Solowarm,22.3,4,5,4.5,2.5,1,2,1.2,14.9,0.8,17,4.0,no
+8/27/2024,Riannon,89,Human Resources,Information Systems Manager,Female,Otcom,6.5,4,1,7.9,7.4,5,0,1.4,3.0,3.1,3,2.3,no
+3/11/2025,Brewer,2,Accounting,Biostatistician III,Male,Biodex,9.3,1,1,4.7,2.3,9,4,1.8,12.9,1.0,19,3.5,no
+4/19/2025,Della,42686,Marketing,Mechanical Systems Engineer,Female,Kanlam,22.7,5,3,1.5,3.8,1,5,0.8,14.4,0.4,16,4.9,yes
+9/10/2024,Damien,18,Legal,Health Coach I,Male,Tres-Zap,24.8,3,3,4.1,4.1,2,1,1.1,1.5,2.8,16,3.1,yes
+8/25/2024,Parsifal,6,Research and Development,Administrative Officer,Male,Biodex,25.6,3,4,3.5,5.3,4,0,0.8,4.4,1.4,13,2.9,no
+5/9/2025,Smitty,2,Services,Mechanical Systems Engineer,Male,It,26.8,3,1,5.4,7.6,8,5,1.2,3.9,1.4,8,1.3,no
+9/4/2024,Daisie,53,Legal,Engineer III,Female,Konklux,12.6,3,1,5.8,6.0,0,0,1.4,10.9,4.2,14,4.1,no
+3/29/2025,Lorri,788,Research and Development,Research Associate,Female,Mat Lam Tam,23.3,2,2,5.1,1.4,7,4,0.6,13.4,0.7,6,2.1,yes
+1/13/2025,Wallie,71,Business Development,Financial Advisor,Female,Veribet,21.0,3,1,4.3,5.4,10,4,0.5,12.2,2.3,11,4.3,yes
+2/9/2025,Austine,394,Human Resources,Chemical Engineer,Female,Tin,20.4,5,5,0.6,5.5,0,1,1.2,2.3,1.5,2,4.7,yes
+11/27/2024,Saudra,4,Product Management,Health Coach I,Female,Cookley,4.1,5,5,5.8,3.7,2,1,1.7,10.8,1.8,1,1.4,no
+10/6/2024,Glynis,402,Accounting,Staff Accountant IV,Female,Tin,21.6,2,5,6.6,0.3,8,0,1.4,0.1,0.4,3,1.9,no
+10/6/2024,Vasilis,004,Training,Account Executive,Male,Zoolab,15.1,5,4,6.2,1.6,10,4,0.8,7.7,2.1,1,3.2,no
+3/1/2025,Shelly,1,Engineering,General Manager,Female,Tampflex,0.5,1,2,2.2,2.9,8,2,0.8,0.8,4.4,8,3.1,no
+11/6/2024,Godart,8,Legal,Professor,Male,Prodder,12.3,4,2,1.0,4.1,9,5,1.3,12.0,3.7,7,3.3,no
+8/7/2024,Dorena,8038,Services,Research Nurse,Polygender,Sub-Ex,29.6,2,3,6.9,2.9,9,0,0.6,2.8,1.4,18,1.5,no
+2/7/2025,Krissy,81,Accounting,Social Worker,Female,Ronstring,6.6,3,2,3.7,3.1,5,2,0.6,0.6,2.9,5,1.2,yes
+10/21/2024,Brynne,1227,Human Resources,Environmental Specialist,Female,Transcof,5.5,1,3,6.5,0.6,2,1,1.7,4.8,4.7,11,3.1,yes
+9/8/2024,George,611,Engineering,Staff Accountant IV,Male,Duobam,2.2,4,2,0.8,7.4,2,3,0.6,5.6,2.1,2,1.2,yes
+9/10/2024,Lenee,8921,Legal,Automation Specialist II,Female,Fixflex,19.6,1,2,1.7,1.0,1,3,0.9,14.8,1.7,1,4.2,no
+3/27/2025,Kari,79,Accounting,Compensation Analyst,Female,Mat Lam Tam,25.4,5,2,7.3,4.3,3,4,1.1,13.1,0.5,4,1.4,no
+7/16/2024,Jacquetta,29142,Engineering,Engineer III,Female,Tempsoft,24.7,4,3,5.6,6.9,5,3,0.6,3.8,1.0,12,1.8,yes
+9/6/2024,Caresse,70785,Human Resources,Occupational Therapist,Female,Ronstring,8.8,5,4,2.1,1.3,2,0,0.9,9.6,3.4,12,4.8,yes
+5/18/2025,Aurelia,2,Services,Account Executive,Female,Home Ing,9.8,2,3,6.4,3.1,5,2,1.7,8.8,2.6,17,2.7,no
+7/22/2024,Vivie,09,Sales,Structural Engineer,Female,Veribet,3.3,1,5,0.6,7.1,1,3,2.0,1.8,1.5,4,4.9,yes
+12/12/2024,Osmund,75239,Engineering,Senior Financial Analyst,Male,Stringtough,17.8,2,4,2.6,3.3,1,3,0.8,8.1,2.5,16,1.4,no
+5/9/2025,Brit,7264,Product Management,Administrative Officer,Male,Y-Solowarm,6.0,4,3,5.1,4.4,5,1,1.5,5.4,1.6,3,2.3,yes
+3/6/2025,Harriot,537,Accounting,Occupational Therapist,Female,Subin,17.2,2,3,6.5,1.0,6,0,1.0,4.2,4.8,5,2.9,yes
+9/1/2024,Brandyn,09,Human Resources,General Manager,Male,Andalax,3.0,2,5,5.7,1.7,2,1,1.5,11.4,3.3,11,2.7,yes
+1/1/2025,Lyle,09,Research and Development,Senior Developer,Male,Holdlamis,6.4,4,2,6.7,1.8,7,5,1.1,0.0,1.6,15,2.1,no
+7/24/2024,Marigold,5628,Legal,Financial Analyst,Female,Sub-Ex,11.6,1,4,3.5,5.6,7,3,0.6,8.2,3.1,13,4.1,no
+6/10/2024,Izaak,8,Business Development,Quality Control Specialist,Male,Asoka,27.4,5,4,4.9,1.3,0,0,1.6,8.0,4.1,13,4.0,yes
+7/14/2024,Felecia,25046,Research and Development,Administrative Assistant III,Female,Zontrax,3.1,4,2,7.8,0.2,8,2,1.4,12.4,4.9,4,4.3,no
+5/14/2025,Phillipe,58,Accounting,Engineer IV,Male,Matsoft,28.7,4,1,7.3,7.2,2,2,1.9,5.7,0.5,6,5.0,no
+4/30/2025,Zachariah,9965,Product Management,Director of Sales,Male,Holdlamis,20.9,1,1,7.1,0.3,0,0,1.9,14.3,3.6,10,1.0,yes
+3/7/2025,Leann,083,Accounting,Structural Engineer,Female,Regrant,3.2,4,1,5.8,2.8,7,2,1.4,11.7,2.2,5,2.9,yes
+2/26/2025,Trish,7746,Engineering,Legal Assistant,Female,Voyatouch,28.4,1,1,1.0,5.4,2,3,1.7,8.2,0.3,10,3.3,yes
+9/15/2024,Tansy,6,Sales,Assistant Manager,Bigender,Job,11.3,3,5,1.7,1.0,4,5,1.5,9.4,0.1,8,1.9,no
+9/18/2024,Jose,5512,Sales,Desktop Support Technician,Male,Lotstring,9.3,5,3,1.4,0.6,5,5,0.5,3.1,0.1,6,3.1,no
+1/22/2025,Clovis,3776,Engineering,Graphic Designer,Female,Regrant,9.9,5,3,4.6,2.1,9,2,0.6,10.6,1.1,11,3.4,no
+10/29/2024,Ginger,97,Research and Development,Project Manager,Female,Temp,12.4,3,2,2.9,4.3,4,3,0.6,8.7,0.4,7,3.2,no
+1/10/2025,Clarabelle,57206,Legal,Assistant Media Planner,Female,Home Ing,8.5,5,5,1.4,4.3,8,3,0.8,0.7,1.2,3,2.3,no
+8/25/2024,Gabie,0566,Services,VP Quality Control,Female,Zamit,18.8,5,5,1.1,1.1,3,2,1.6,3.6,1.1,2,2.4,no
+4/5/2025,Salvatore,6797,Services,Biostatistician II,Male,Bitwolf,18.2,1,5,6.8,7.6,9,0,1.8,2.5,3.8,10,2.9,no
+7/8/2024,Genny,677,Accounting,Clinical Specialist,Female,It,13.2,2,4,4.8,6.9,7,1,1.3,5.8,3.1,10,4.7,no
+8/16/2024,Ali,1219,Training,Senior Sales Associate,Non-binary,Home Ing,15.3,1,3,2.4,4.4,1,4,1.7,1.0,1.3,17,2.5,no
+11/24/2024,Lynett,51,Legal,Senior Developer,Female,Tempsoft,26.5,4,2,7.7,2.2,4,2,0.9,14.6,4.0,8,3.6,no
+11/11/2024,Odie,784,Legal,Software Engineer III,Male,Daltfresh,22.9,3,4,1.5,4.0,6,1,1.3,6.7,4.1,6,1.7,yes
+3/15/2025,Raff,475,Accounting,Senior Cost Accountant,Male,Trippledex,14.7,3,5,3.3,2.1,10,0,0.6,5.6,0.6,19,1.6,yes
+1/23/2025,Bil,29316,Services,Executive Secretary,Male,Cookley,10.7,3,5,1.1,6.5,8,2,1.9,9.0,0.5,15,3.4,yes
+6/3/2025,Tammy,0,Training,Internal Auditor,Male,Gembucket,19.2,3,4,6.7,6.1,7,1,1.9,9.8,2.0,11,3.8,yes
+2/15/2025,Leoline,1167,Sales,Business Systems Development Analyst,Female,Tres-Zap,27.0,1,1,7.1,3.4,4,0,1.0,7.6,3.2,20,1.9,no
+1/8/2025,Allister,82,Legal,Human Resources Assistant I,Male,Zaam-Dox,20.9,1,1,0.6,7.9,5,4,1.3,8.9,0.5,13,2.2,yes
+4/13/2025,Adelice,55,Legal,Electrical Engineer,Female,Toughjoyfax,21.1,3,2,5.0,0.2,5,1,1.5,7.1,4.7,13,1.1,yes
+3/11/2025,Francklin,30,Accounting,Actuary,Male,Quo Lux,7.3,1,3,6.1,7.7,10,1,0.8,6.6,4.8,12,2.1,yes
+8/29/2024,Kort,6,Support,VP Accounting,Male,Aerified,25.5,3,5,1.3,4.7,2,1,1.6,9.6,5.0,19,3.8,yes
+10/4/2024,Nichol,944,Research and Development,Associate Professor,Female,Stringtough,24.6,5,4,4.5,0.6,3,4,0.7,0.5,0.8,19,1.7,yes
+1/12/2025,Napoleon,3,Legal,VP Sales,Male,Quo Lux,25.2,3,1,1.6,4.3,3,5,1.6,13.9,1.4,19,1.8,no
+9/15/2024,Tilda,8389,Engineering,Product Engineer,Non-binary,It,29.3,1,4,5.4,2.6,0,0,1.6,14.9,4.7,2,1.9,no
+1/31/2025,Chrissie,8,Legal,Mechanical Systems Engineer,Female,Tin,13.7,2,1,3.5,3.1,7,4,0.6,3.6,2.3,1,1.7,no
+1/10/2025,Trixi,51,Accounting,Marketing Manager,Genderfluid,Domainer,14.8,5,2,5.5,1.5,7,1,0.7,12.2,3.3,18,3.1,yes
+11/5/2024,Denise,00218,Engineering,Systems Administrator IV,Female,Temp,29.3,3,1,4.4,7.1,1,5,1.0,4.1,4.3,14,3.8,yes
+4/18/2025,Dina,7,Training,Physical Therapy Assistant,Female,Alpha,7.4,1,5,6.7,6.5,3,3,0.7,0.7,2.2,2,4.9,no
+9/29/2024,Loni,0909,Human Resources,Senior Editor,Female,Tempsoft,8.6,3,3,7.6,1.7,7,3,0.9,11.7,2.1,9,4.7,yes
+8/19/2024,Chad,5,Support,Engineer III,Female,Cardguard,9.2,1,5,2.5,6.5,1,0,0.8,9.8,2.1,15,1.0,yes
+7/19/2024,Kristine,9238,Business Development,Clinical Specialist,Female,Bigtax,16.9,5,3,1.6,2.0,3,3,1.2,13.6,2.3,16,4.0,yes
+8/22/2024,Sibella,75,Accounting,Web Developer III,Female,Zaam-Dox,8.6,1,5,6.0,0.1,9,3,0.7,6.7,1.8,7,1.7,yes
+8/10/2024,Felice,306,Marketing,Account Executive,Female,Veribet,24.1,1,3,7.3,6.5,4,1,0.9,9.3,3.0,15,3.9,yes
+2/25/2025,Becca,9352,Services,Programmer Analyst II,Female,Y-find,4.2,5,3,6.2,5.1,5,4,1.6,13.2,3.2,11,3.8,no
+9/9/2024,Aaren,14132,Training,Quality Control Specialist,Female,Cookley,14.9,2,3,5.4,2.0,0,3,1.8,8.1,4.0,3,1.7,no
+11/4/2024,Davy,048,Product Management,VP Quality Control,Male,Sub-Ex,8.2,5,5,0.9,7.3,1,0,1.9,13.9,1.8,2,3.5,no
+4/15/2025,Elene,1652,Support,Editor,Genderfluid,Ronstring,16.5,5,5,2.0,6.2,5,1,1.6,15.0,3.2,5,2.8,yes
+7/4/2024,Cynde,4,Support,VP Sales,Female,Stringtough,19.5,1,1,1.3,1.6,5,1,0.9,2.5,4.2,14,3.3,no
+11/25/2024,Freddy,7,Human Resources,Office Assistant III,Male,Asoka,23.9,1,3,7.6,5.9,10,2,1.2,12.9,3.2,2,3.2,yes
+10/4/2024,Simeon,76299,Human Resources,Electrical Engineer,Male,Wrapsafe,8.9,1,4,0.5,4.2,6,4,1.7,4.4,0.7,18,3.8,yes
+5/8/2025,Gray,66050,Sales,Recruiter,Male,Fixflex,4.0,1,2,1.5,2.8,9,1,1.0,0.9,4.4,0,2.0,no
+3/7/2025,Antonia,1765,Sales,Senior Financial Analyst,Agender,Tin,19.2,5,4,0.7,2.9,2,1,0.7,0.5,0.8,13,3.4,yes
+7/9/2024,Alyse,142,Product Management,Business Systems Development Analyst,Female,Voltsillam,14.6,1,2,0.6,6.2,9,3,1.6,12.5,3.2,19,3.6,no
+6/2/2025,Cordi,82037,Legal,Media Manager I,Female,Bitchip,16.9,3,2,0.6,4.5,2,0,1.3,7.3,0.2,18,1.1,yes
+12/22/2024,Melisent,645,Accounting,Geological Engineer,Bigender,Veribet,23.9,5,4,6.2,4.9,6,0,1.6,8.8,0.9,6,1.6,yes
+4/22/2025,Lebbie,07336,Product Management,Structural Analysis Engineer,Female,It,2.6,4,1,3.7,8.0,8,0,1.0,0.0,2.8,3,2.4,yes
+12/19/2024,Huey,66238,Accounting,Registered Nurse,Male,Span,8.2,2,1,5.2,6.1,2,4,0.9,6.6,0.9,18,3.9,no
+1/26/2025,Kylie,81,Human Resources,Sales Representative,Female,Cardguard,24.1,2,2,0.6,4.8,6,2,1.8,14.7,2.8,0,2.2,yes
+7/24/2024,Hilary,0058,Business Development,Research Associate,Female,Lotstring,13.6,2,4,4.2,1.4,4,0,1.3,6.9,2.2,5,2.6,no
+5/8/2025,Evvie,025,Research and Development,Clinical Specialist,Female,Alphazap,27.3,2,5,1.7,0.2,0,2,0.9,2.7,0.8,11,1.5,no
+9/21/2024,Wilma,8,Training,Senior Sales Associate,Female,Voltsillam,22.4,4,5,3.9,6.6,6,2,1.1,14.8,3.1,13,4.2,no
+4/5/2025,Pearce,6,Legal,Research Nurse,Male,Duobam,11.3,5,5,6.9,7.0,0,0,2.0,4.7,4.2,2,2.6,no
+7/23/2024,Ransom,02,Research and Development,Environmental Tech,Male,Daltfresh,29.3,5,5,4.5,6.3,6,1,1.1,11.9,1.6,2,3.0,yes
+2/19/2025,Salem,0,Research and Development,Analyst Programmer,Male,Zaam-Dox,4.0,3,3,4.9,3.3,1,5,1.4,3.1,0.1,2,4.1,yes
+9/23/2024,Nita,691,Training,Help Desk Operator,Female,Cookley,16.2,4,4,6.3,4.4,3,2,1.7,9.8,2.4,11,1.5,no
+12/12/2024,Frankie,403,Services,Project Manager,Male,Kanlam,21.4,3,1,4.3,1.3,5,5,0.6,8.7,4.3,9,1.7,no
+10/30/2024,Guglielmo,1545,Marketing,Computer Systems Analyst IV,Male,Greenlam,20.0,4,4,2.9,7.7,2,4,0.7,8.3,0.7,1,4.0,yes
+9/27/2024,Rufus,3328,Business Development,GIS Technical Architect,Male,Regrant,11.6,3,2,2.2,2.9,2,0,1.7,11.2,1.8,5,4.1,no
+5/12/2025,Noam,2,Accounting,Structural Analysis Engineer,Male,Vagram,13.4,5,3,1.8,7.0,2,5,1.3,1.4,0.2,6,3.6,yes
+3/18/2025,Ema,165,Accounting,Clinical Specialist,Female,Home Ing,1.3,1,3,0.8,2.6,2,3,0.7,10.1,4.2,2,4.9,no
+12/13/2024,Marlow,24145,Business Development,Chemical Engineer,Male,Zamit,25.0,1,3,3.1,5.8,2,4,0.5,6.7,2.3,1,2.0,no
+10/21/2024,Krystyna,31379,Research and Development,Database Administrator II,Female,Solarbreeze,24.9,1,3,7.3,5.9,10,4,0.6,5.8,3.9,7,1.4,no
+9/10/2024,Bertine,1,Research and Development,Assistant Media Planner,Female,Trippledex,12.3,4,4,4.3,8.0,1,5,1.4,8.0,4.3,0,4.8,no
+4/21/2025,Richard,0280,Services,GIS Technical Architect,Male,Vagram,10.4,1,3,5.8,4.0,4,2,1.8,13.2,2.7,9,1.5,yes
+2/11/2025,Riva,4,Business Development,Quality Engineer,Female,Cardguard,5.7,4,3,7.0,1.4,6,2,1.0,12.9,2.8,19,2.5,no
+6/26/2024,Lynsey,763,Sales,Internal Auditor,Female,Tin,29.4,4,1,1.9,7.9,1,1,1.6,4.8,2.3,12,4.6,yes
+1/30/2025,Orlando,274,Support,Developer I,Male,Flexidy,29.8,4,1,4.2,7.0,10,3,1.9,5.9,4.4,18,4.4,yes
+6/29/2024,Zacharia,9197,Marketing,Automation Specialist III,Male,Quo Lux,17.1,1,4,7.4,5.3,2,3,0.6,6.9,0.8,3,3.5,no
+3/28/2025,Fawne,64,Engineering,GIS Technical Architect,Non-binary,Temp,24.2,1,4,5.3,5.9,8,2,1.1,10.0,4.2,9,1.0,yes
+2/9/2025,Ursuline,287,Sales,Systems Administrator III,Female,Prodder,11.2,4,2,7.6,4.1,9,3,1.1,12.6,0.9,4,3.0,yes
+12/1/2024,Franky,1345,Marketing,Product Engineer,Male,Stronghold,22.0,4,1,7.8,2.5,9,5,1.6,1.7,3.1,20,4.4,yes
+8/3/2024,Lida,89834,Marketing,Staff Accountant II,Female,Bitchip,7.8,5,5,7.3,0.5,8,4,1.4,9.5,3.8,15,4.0,no
+1/5/2025,Luci,91,Services,Office Assistant I,Female,Sonair,6.8,3,2,0.7,7.9,0,0,0.6,1.0,2.8,1,2.6,yes
+12/25/2024,Darby,61576,Accounting,Statistician I,Male,Latlux,8.2,5,3,3.6,5.1,3,4,1.3,11.4,0.5,8,2.4,yes
+9/4/2024,Weider,64341,Human Resources,VP Product Management,Male,Ronstring,12.8,5,1,5.1,6.9,2,5,1.5,7.9,0.3,17,2.5,no
