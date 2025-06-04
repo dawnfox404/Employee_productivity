@@ -1,4 +1,4 @@
-#  Streamlit-Based Employee Productivity Analytics 📈
+#  Streamlit-Based Employee Productivity Analytics 
 
 A Streamlit-based interactive dashboard to analyze employee productivity, efficiency, and overall company performance using smart KPIs and visualizations.
 
