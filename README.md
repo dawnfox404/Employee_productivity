@@ -7,7 +7,7 @@ A Streamlit-based interactive dashboard to analyze employee productivity, effici
 
 
 
-### Features ✅
+### Features 
 - Upload your own dataset (CSV format)
 - Auto-calculates productivity KPIs like:
   - Total Clocked & Productive Hours
@@ -23,7 +23,7 @@ A Streamlit-based interactive dashboard to analyze employee productivity, effici
 [![33.png](https://i.postimg.cc/XNyRSXTF/33.png)](https://postimg.cc/5jb7899N)
 [![44.png](https://i.postimg.cc/vHrCTk8Z/44.png)](https://postimg.cc/ykNLrfSM)
 
-### Built With 🛠️
+### Built With 
 - Python (Pandas, Plotly, Streamlit)
 - Git & GitHub for Version Control
 - Streamlit Cloud for Hosting
@@ -39,7 +39,7 @@ After launching the app, upload a .csv file via the uploader on the homepage.
 
 Once uploaded, all KPIs and visualizations will update dynamically.
 
-### 📁Dataset Requirements
+### Dataset Requirements
 Your CSV must contain the following columns exactly as shown (case-sensitive):
 | Column Name                   | Description                                            |
 | ----------------------------- | ------------------------------------------------------ |
